@@ -1,44 +1,59 @@
 # Synthetic data generation
 
-This directory contains the scaffold for replacing confidential source data
-with fully synthetic datasets.
+`generate_synthetic_data.py` creates fully artificial data for demonstrating
+the Power BI dashboard. It does not read confidential source records or copy
+distributions from the original datasets.
 
-## Documented inputs
-
-The generator specification is limited to the repository documentation:
+The column contracts and categorical domains come from:
 
 - `data/graduates_schema.md`
 - `data/survey_schema.md`
 - `data/data_dictionary.md`
 
-The files under `data/raw/` are reserved for source inputs when an approved
-workflow requires them. Confidential records must not be committed to the
-repository or used as rows to transform into synthetic output.
+All generation probabilities are fictional, explicit, and intentionally
+simple. Therefore, generated metrics do not represent actual employment,
+education, program performance, or survey results.
 
-## Planned flow
+## Run
 
-1. Read the documented schemas, types, categorical domains, and relationship.
-2. Define generation parameters only after volumes, distributions, field
-   dependencies, and missing-value rules have been documented and approved.
-3. Generate artificial graduate records with new synthetic identifiers.
-4. Generate artificial survey responses linked only to those synthetic
-   graduate identifiers.
-5. Validate column order, types, allowed values, identifier uniqueness, and
-   referential integrity against the documented contracts.
-6. Write `graduates_synthetic.csv` and `survey_synthetic.csv` to
-   `data/synthetic/`.
-
-The current `generate_synthetic_data.py` intentionally stops before generation.
-It records output paths and column contracts without creating CSV files or
-introducing undocumented business rules.
-
-## Future execution
-
-Once generation rules are approved, the intended entry point will be:
+From the repository root, generate the default datasets with:
 
 ```powershell
 python scripts/generate_synthetic_data.py
 ```
 
-Run it from the repository root. Generated CSV files should remain separate
-from any raw inputs.
+Defaults:
+
+- 3,000 graduates
+- 900 survey responses
+- random seed `42`
+
+Optional parameters:
+
+```powershell
+python scripts/generate_synthetic_data.py `
+  --graduates-count 3000 `
+  --survey-count 900 `
+  --seed 42
+```
+
+| Parameter | Description | Default |
+| --- | --- | ---: |
+| `--graduates-count` | Number of synthetic graduates | `3000` |
+| `--survey-count` | Number of unique synthetic responses | `900` |
+| `--seed` | Seed used for reproducible generation | `42` |
+
+Both counts must be greater than zero, and the survey count cannot exceed the
+graduate count. Running the same parameters and seed produces the same content.
+
+## Outputs
+
+The script overwrites these generated files on each successful run:
+
+- `data/synthetic/graduates_synthetic.csv`
+- `data/synthetic/survey_synthetic.csv`
+
+Before writing, it validates expected row counts, identifier uniqueness,
+referential integrity, documented categorical domains, 4.0-only survey scope,
+course and cohort consistency, IT/programmer employment rules, and continuing
+education fields. A validation failure stops execution with an error.

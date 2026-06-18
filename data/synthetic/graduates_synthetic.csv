@@ -1,0 +1,3001 @@
+graduate_id,gender,jurisdiction,course,course_type,cohort
+1,Female,CABA,FullStack Python,4.0,2021-1
+2,Male,Other Provinces,FullStack Python,4.0,2020-2
+3,Female,Buenos Aires Province,Big Data,4.0,2020-2
+4,Male,Buenos Aires Province,Big Data,Advanced,2020-2
+5,Male,Buenos Aires Province,Big Data,4.0,2020-2
+6,Female,CABA,FullStack Python,4.0,2022-1
+7,Female,CABA,FullStack Java,4.0,2022-1
+8,Male,CABA,Testing QA,4.0,2021-1
+9,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+10,Male,Buenos Aires Province,Testing QA,Advanced,2021-2
+11,Male,CABA,FullStack Python,4.0,2021-1
+12,Male,Buenos Aires Province,FullStack Python,Initial Programming,2022-1
+13,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+14,Male,CABA,Big Data,Advanced,2022-1
+15,Female,Buenos Aires Province,UX/UI Design,Advanced,2021-2
+16,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+17,Female,Buenos Aires Province,Big Data,4.0,2022-1
+18,Male,Buenos Aires Province,Big Data,4.0,2022-1
+19,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+20,Male,CABA,FullStack PHP,4.0,2022-1
+21,Female,CABA,FullStack Python,Initial Programming,2022-1
+22,Male,CABA,Big Data,4.0,2022-1
+23,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+24,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+25,Female,Other Provinces,UX/UI Design,Advanced,2021-1
+26,Female,Buenos Aires Province,FullStack PHP,4.0,2022-1
+27,Female,Buenos Aires Province,UX/UI Design,Initial Programming,2021-2
+28,Female,CABA,FullStack PHP,Advanced,2020-2
+29,Female,CABA,FullStack Java,4.0,2021-1
+30,Male,Buenos Aires Province,UX/UI Design,4.0,2020-2
+31,Female,Buenos Aires Province,FullStack Java,Initial Programming,2022-1
+32,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+33,Male,CABA,Big Data,4.0,2021-1
+34,Female,Buenos Aires Province,Big Data,Advanced,2022-1
+35,Female,Other Provinces,FullStack Java,4.0,2022-1
+36,Male,CABA,Testing QA,Advanced,2021-1
+37,Female,Other Provinces,UX/UI Design,4.0,2020-2
+38,Female,Buenos Aires Province,Big Data,4.0,2021-1
+39,Female,Buenos Aires Province,FullStack Java,Advanced,2021-2
+40,Female,Buenos Aires Province,FullStack Python,4.0,2020-2
+41,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+42,Male,Other Provinces,UX/UI Design,4.0,2020-2
+43,Female,Buenos Aires Province,Big Data,4.0,2021-1
+44,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+45,Female,CABA,Testing QA,4.0,2022-1
+46,Male,CABA,Testing QA,4.0,2020-2
+47,Female,Buenos Aires Province,FullStack Python,4.0,2021-2
+48,Male,Other Provinces,FullStack Python,Advanced,2020-2
+49,Female,Buenos Aires Province,FullStack Python,Advanced,2020-2
+50,Female,CABA,FullStack PHP,4.0,2021-2
+51,Male,Buenos Aires Province,UX/UI Design,4.0,2020-2
+52,Male,Buenos Aires Province,UX/UI Design,Initial Programming,2021-2
+53,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+54,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+55,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+56,Male,Buenos Aires Province,Testing QA,Advanced,2021-1
+57,Female,CABA,FullStack Java,4.0,2021-2
+58,Male,Buenos Aires Province,Testing QA,4.0,2022-1
+59,Male,Other Provinces,FullStack PHP,Advanced,2021-2
+60,Male,CABA,FullStack Python,4.0,2020-2
+61,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+62,Male,Buenos Aires Province,FullStack PHP,Advanced,2021-1
+63,Male,CABA,FullStack Python,4.0,2021-2
+64,Female,Buenos Aires Province,Big Data,Initial Programming,2020-2
+65,Male,CABA,Testing QA,4.0,2020-2
+66,Female,Buenos Aires Province,Big Data,4.0,2020-2
+67,Male,Other Provinces,FullStack Python,4.0,2022-1
+68,Male,Buenos Aires Province,FullStack Java,Advanced,2020-2
+69,Female,Buenos Aires Province,Big Data,4.0,2020-2
+70,Male,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+71,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+72,Male,Buenos Aires Province,Big Data,4.0,2021-2
+73,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+74,Female,CABA,FullStack PHP,4.0,2020-2
+75,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+76,Female,Buenos Aires Province,FullStack PHP,4.0,2021-1
+77,Male,Buenos Aires Province,FullStack Python,Advanced,2020-2
+78,Male,Buenos Aires Province,FullStack Python,Advanced,2022-1
+79,Male,Buenos Aires Province,Big Data,4.0,2021-1
+80,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+81,Male,Buenos Aires Province,FullStack PHP,4.0,2022-1
+82,Male,Other Provinces,FullStack PHP,Initial Programming,2021-2
+83,Male,Buenos Aires Province,FullStack Python,Advanced,2022-1
+84,Male,CABA,UX/UI Design,4.0,2021-1
+85,Female,Buenos Aires Province,FullStack Python,4.0,2021-2
+86,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+87,Male,Other Provinces,FullStack PHP,Initial Programming,2020-2
+88,Male,Other Provinces,FullStack Java,4.0,2020-2
+89,Female,CABA,Testing QA,4.0,2021-2
+90,Female,Other Provinces,FullStack Python,4.0,2021-2
+91,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+92,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+93,Female,Other Provinces,UX/UI Design,4.0,2021-1
+94,Female,CABA,FullStack PHP,4.0,2022-1
+95,Male,CABA,Big Data,4.0,2021-2
+96,Male,CABA,Testing QA,4.0,2020-2
+97,Male,CABA,FullStack Python,4.0,2022-1
+98,Female,CABA,Testing QA,4.0,2021-2
+99,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+100,Male,CABA,FullStack Python,4.0,2020-2
+101,Male,Buenos Aires Province,Big Data,4.0,2021-2
+102,Male,CABA,FullStack PHP,4.0,2021-1
+103,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+104,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+105,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+106,Female,CABA,FullStack PHP,4.0,2020-2
+107,Male,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+108,Male,CABA,UX/UI Design,Advanced,2022-1
+109,Male,Buenos Aires Province,FullStack Python,4.0,2021-1
+110,Male,Other Provinces,FullStack PHP,4.0,2021-1
+111,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+112,Male,Buenos Aires Province,Big Data,Advanced,2022-1
+113,Female,CABA,FullStack Java,4.0,2021-2
+114,Male,CABA,FullStack Java,4.0,2021-1
+115,Other,Buenos Aires Province,Testing QA,4.0,2022-1
+116,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+117,Female,Buenos Aires Province,Testing QA,Advanced,2020-2
+118,Female,CABA,FullStack PHP,4.0,2021-1
+119,Male,Other Provinces,Big Data,4.0,2021-2
+120,Male,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+121,Female,CABA,FullStack PHP,4.0,2021-1
+122,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+123,Male,Other Provinces,FullStack Python,4.0,2020-2
+124,Female,Other Provinces,FullStack PHP,Initial Programming,2020-2
+125,Female,CABA,UX/UI Design,4.0,2021-2
+126,Female,Buenos Aires Province,Big Data,Advanced,2020-2
+127,Female,CABA,Testing QA,Initial Programming,2021-2
+128,Male,CABA,Testing QA,4.0,2022-1
+129,Female,Buenos Aires Province,FullStack Python,4.0,2020-2
+130,Male,Buenos Aires Province,FullStack PHP,Advanced,2020-2
+131,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+132,Female,Other Provinces,FullStack Java,4.0,2021-2
+133,Male,Buenos Aires Province,Big Data,4.0,2021-2
+134,Male,Buenos Aires Province,FullStack Java,4.0,2021-1
+135,Other,Other Provinces,FullStack Java,4.0,2020-2
+136,Male,Other Provinces,Testing QA,Advanced,2020-2
+137,Male,Other Provinces,UX/UI Design,Initial Programming,2021-1
+138,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+139,Male,Buenos Aires Province,FullStack Python,4.0,2021-1
+140,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+141,Male,CABA,FullStack PHP,4.0,2021-1
+142,Female,CABA,FullStack PHP,Initial Programming,2021-1
+143,Male,CABA,FullStack Python,4.0,2021-1
+144,Female,Other Provinces,Testing QA,4.0,2021-1
+145,Male,Buenos Aires Province,UX/UI Design,4.0,2021-2
+146,Female,Buenos Aires Province,FullStack Python,4.0,2020-2
+147,Female,Other Provinces,UX/UI Design,4.0,2020-2
+148,Male,Other Provinces,FullStack JavaScript / Node.js,Initial Programming,2022-1
+149,Female,Buenos Aires Province,Testing QA,Advanced,2021-2
+150,Female,CABA,UX/UI Design,4.0,2021-1
+151,Female,Other Provinces,FullStack PHP,4.0,2021-2
+152,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+153,Female,CABA,Big Data,4.0,2022-1
+154,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-2
+155,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2021-1
+156,Female,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+157,Male,Other Provinces,UX/UI Design,Initial Programming,2021-1
+158,Male,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+159,Male,Other Provinces,UX/UI Design,4.0,2022-1
+160,Female,CABA,FullStack Python,4.0,2022-1
+161,Male,Buenos Aires Province,FullStack Python,4.0,2020-2
+162,Male,Buenos Aires Province,Testing QA,Advanced,2020-2
+163,Male,CABA,FullStack PHP,4.0,2022-1
+164,Other,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+165,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+166,Female,Buenos Aires Province,FullStack PHP,Initial Programming,2020-2
+167,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+168,Female,Buenos Aires Province,UX/UI Design,Initial Programming,2021-1
+169,Female,CABA,Big Data,4.0,2021-1
+170,Female,Other Provinces,UX/UI Design,4.0,2022-1
+171,Female,CABA,FullStack Python,Initial Programming,2021-1
+172,Male,CABA,Big Data,4.0,2022-1
+173,Male,CABA,FullStack Python,4.0,2022-1
+174,Male,Other Provinces,FullStack PHP,4.0,2021-1
+175,Female,Buenos Aires Province,Testing QA,Initial Programming,2021-1
+176,Male,Buenos Aires Province,FullStack Python,Advanced,2021-1
+177,Female,CABA,Testing QA,4.0,2020-2
+178,Female,CABA,Testing QA,4.0,2022-1
+179,Female,CABA,UX/UI Design,4.0,2021-1
+180,Female,Buenos Aires Province,Big Data,4.0,2022-1
+181,Male,Buenos Aires Province,Testing QA,Initial Programming,2020-2
+182,Male,Buenos Aires Province,UX/UI Design,4.0,2022-1
+183,Female,Buenos Aires Province,FullStack PHP,Initial Programming,2020-2
+184,Female,Buenos Aires Province,FullStack PHP,4.0,2021-1
+185,Female,CABA,FullStack Python,Advanced,2021-2
+186,Female,Other Provinces,FullStack Python,Initial Programming,2021-2
+187,Female,CABA,Big Data,4.0,2022-1
+188,Other,CABA,FullStack Java,Advanced,2021-1
+189,Other,Buenos Aires Province,FullStack Java,Advanced,2020-2
+190,Female,CABA,FullStack Java,4.0,2022-1
+191,Male,Buenos Aires Province,Testing QA,Advanced,2020-2
+192,Female,CABA,FullStack Python,4.0,2021-2
+193,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+194,Male,CABA,FullStack Python,Advanced,2020-2
+195,Male,Buenos Aires Province,Testing QA,Advanced,2021-2
+196,Female,Other Provinces,FullStack Java,4.0,2021-2
+197,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+198,Male,CABA,FullStack PHP,4.0,2021-1
+199,Male,Other Provinces,Big Data,4.0,2020-2
+200,Female,Buenos Aires Province,Big Data,Initial Programming,2021-1
+201,Male,Other Provinces,FullStack JavaScript / Node.js,Initial Programming,2020-2
+202,Female,Buenos Aires Province,FullStack Python,Advanced,2021-1
+203,Female,CABA,FullStack Java,4.0,2021-2
+204,Male,CABA,FullStack PHP,4.0,2021-2
+205,Male,CABA,FullStack Java,4.0,2021-2
+206,Female,Buenos Aires Province,Big Data,Advanced,2021-1
+207,Female,Other Provinces,FullStack Python,4.0,2022-1
+208,Male,Buenos Aires Province,FullStack Python,4.0,2021-1
+209,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+210,Female,Other Provinces,FullStack Python,4.0,2020-2
+211,Male,CABA,FullStack Python,4.0,2021-2
+212,Male,CABA,FullStack PHP,Initial Programming,2021-2
+213,Male,Other Provinces,FullStack Java,Advanced,2020-2
+214,Other,CABA,Big Data,4.0,2021-2
+215,Other,Buenos Aires Province,Testing QA,4.0,2021-1
+216,Male,Buenos Aires Province,FullStack PHP,4.0,2020-2
+217,Male,Buenos Aires Province,FullStack Python,Initial Programming,2021-2
+218,Male,CABA,Big Data,4.0,2022-1
+219,Male,Buenos Aires Province,Testing QA,Advanced,2021-2
+220,Female,CABA,Big Data,4.0,2021-2
+221,Male,Buenos Aires Province,Big Data,4.0,2022-1
+222,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+223,Female,Other Provinces,FullStack Python,4.0,2021-2
+224,Male,CABA,Testing QA,4.0,2020-2
+225,Male,Other Provinces,FullStack Python,4.0,2021-1
+226,Female,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+227,Female,Other Provinces,FullStack Python,Advanced,2020-2
+228,Female,Other Provinces,Big Data,Advanced,2021-2
+229,Female,Buenos Aires Province,FullStack Python,Initial Programming,2021-1
+230,Female,CABA,FullStack Java,4.0,2021-2
+231,Male,Buenos Aires Province,FullStack Java,Advanced,2021-1
+232,Female,CABA,FullStack PHP,4.0,2020-2
+233,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+234,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+235,Female,CABA,FullStack Java,Initial Programming,2022-1
+236,Female,CABA,FullStack Python,4.0,2020-2
+237,Female,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+238,Female,Buenos Aires Province,FullStack PHP,4.0,2022-1
+239,Male,CABA,Testing QA,4.0,2021-1
+240,Male,Buenos Aires Province,FullStack PHP,4.0,2020-2
+241,Other,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+242,Female,Other Provinces,FullStack Python,Advanced,2022-1
+243,Female,CABA,FullStack Python,4.0,2022-1
+244,Female,Other Provinces,UX/UI Design,4.0,2021-2
+245,Male,Buenos Aires Province,FullStack Python,4.0,2021-2
+246,Male,Other Provinces,FullStack JavaScript / Node.js,Advanced,2022-1
+247,Female,Buenos Aires Province,FullStack Java,Advanced,2022-1
+248,Female,CABA,Testing QA,4.0,2021-2
+249,Male,CABA,Big Data,4.0,2022-1
+250,Male,Buenos Aires Province,FullStack Java,Initial Programming,2020-2
+251,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2022-1
+252,Female,CABA,UX/UI Design,4.0,2022-1
+253,Female,CABA,Testing QA,4.0,2022-1
+254,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+255,Male,CABA,FullStack Python,4.0,2020-2
+256,Male,Buenos Aires Province,Testing QA,4.0,2022-1
+257,Female,Buenos Aires Province,FullStack Java,Advanced,2020-2
+258,Male,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+259,Male,Buenos Aires Province,FullStack PHP,4.0,2022-1
+260,Female,Buenos Aires Province,Big Data,Advanced,2020-2
+261,Female,CABA,FullStack PHP,4.0,2020-2
+262,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+263,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+264,Male,CABA,FullStack PHP,4.0,2021-2
+265,Male,Other Provinces,FullStack Python,Initial Programming,2021-2
+266,Other,Buenos Aires Province,FullStack PHP,4.0,2022-1
+267,Male,Other Provinces,Big Data,4.0,2021-2
+268,Male,Other Provinces,Big Data,Initial Programming,2021-2
+269,Female,CABA,Big Data,Advanced,2021-1
+270,Female,Buenos Aires Province,FullStack Python,4.0,2021-2
+271,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+272,Male,Buenos Aires Province,UX/UI Design,4.0,2022-1
+273,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+274,Female,Other Provinces,UX/UI Design,Advanced,2021-1
+275,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+276,Male,Other Provinces,UX/UI Design,4.0,2020-2
+277,Female,Other Provinces,Testing QA,4.0,2022-1
+278,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+279,Female,Buenos Aires Province,Testing QA,Advanced,2022-1
+280,Female,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+281,Male,Other Provinces,UX/UI Design,4.0,2021-2
+282,Female,Buenos Aires Province,FullStack Java,Initial Programming,2020-2
+283,Other,Buenos Aires Province,FullStack Python,Advanced,2021-2
+284,Female,Buenos Aires Province,FullStack Python,Initial Programming,2020-2
+285,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+286,Female,CABA,FullStack PHP,4.0,2020-2
+287,Female,Buenos Aires Province,FullStack Python,Initial Programming,2020-2
+288,Male,Buenos Aires Province,FullStack PHP,Advanced,2021-2
+289,Male,Other Provinces,FullStack PHP,4.0,2020-2
+290,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-2
+291,Female,Other Provinces,Testing QA,4.0,2021-2
+292,Female,CABA,FullStack PHP,4.0,2021-2
+293,Male,Buenos Aires Province,Big Data,4.0,2022-1
+294,Male,Buenos Aires Province,FullStack Python,Initial Programming,2021-2
+295,Male,Buenos Aires Province,FullStack Java,4.0,2022-1
+296,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+297,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+298,Female,CABA,UX/UI Design,4.0,2021-1
+299,Male,Buenos Aires Province,UX/UI Design,4.0,2021-2
+300,Male,CABA,UX/UI Design,Advanced,2020-2
+301,Female,CABA,UX/UI Design,4.0,2021-1
+302,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+303,Female,Buenos Aires Province,FullStack Python,4.0,2021-1
+304,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+305,Male,Buenos Aires Province,Big Data,4.0,2020-2
+306,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+307,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+308,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+309,Female,Other Provinces,Big Data,Initial Programming,2021-2
+310,Male,Buenos Aires Province,FullStack Python,4.0,2021-2
+311,Other,Buenos Aires Province,Big Data,4.0,2020-2
+312,Male,Buenos Aires Province,Testing QA,4.0,2022-1
+313,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+314,Female,Other Provinces,FullStack Java,4.0,2022-1
+315,Female,Buenos Aires Province,UX/UI Design,Advanced,2021-1
+316,Male,Buenos Aires Province,UX/UI Design,Advanced,2021-2
+317,Male,Buenos Aires Province,Testing QA,Advanced,2020-2
+318,Female,CABA,Big Data,4.0,2022-1
+319,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+320,Female,Buenos Aires Province,Big Data,4.0,2021-1
+321,Male,Buenos Aires Province,FullStack Python,Advanced,2020-2
+322,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+323,Male,Buenos Aires Province,FullStack Java,Initial Programming,2021-2
+324,Female,Other Provinces,FullStack Python,4.0,2022-1
+325,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+326,Female,Buenos Aires Province,FullStack Java,Initial Programming,2020-2
+327,Female,CABA,Big Data,4.0,2021-2
+328,Male,CABA,FullStack JavaScript / Node.js,Initial Programming,2020-2
+329,Male,Other Provinces,FullStack PHP,4.0,2022-1
+330,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+331,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+332,Female,CABA,FullStack PHP,4.0,2021-2
+333,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+334,Male,CABA,Big Data,4.0,2022-1
+335,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+336,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+337,Female,Other Provinces,Testing QA,4.0,2020-2
+338,Male,CABA,FullStack Python,4.0,2022-1
+339,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+340,Male,Buenos Aires Province,FullStack Python,Advanced,2020-2
+341,Female,Other Provinces,FullStack Java,4.0,2020-2
+342,Male,Buenos Aires Province,FullStack Java,4.0,2021-1
+343,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+344,Female,Buenos Aires Province,Big Data,4.0,2021-2
+345,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+346,Female,CABA,FullStack Python,4.0,2021-1
+347,Male,CABA,FullStack PHP,Advanced,2021-2
+348,Male,Other Provinces,Testing QA,4.0,2022-1
+349,Other,CABA,FullStack Java,4.0,2020-2
+350,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+351,Female,Buenos Aires Province,FullStack PHP,Initial Programming,2022-1
+352,Male,Other Provinces,FullStack PHP,4.0,2021-1
+353,Male,CABA,Big Data,4.0,2020-2
+354,Male,Buenos Aires Province,Big Data,4.0,2022-1
+355,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+356,Female,Buenos Aires Province,FullStack Java,Initial Programming,2020-2
+357,Female,CABA,FullStack PHP,Initial Programming,2020-2
+358,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+359,Female,CABA,FullStack Java,4.0,2022-1
+360,Female,Other Provinces,FullStack PHP,4.0,2021-1
+361,Female,Other Provinces,UX/UI Design,4.0,2020-2
+362,Male,CABA,Big Data,Initial Programming,2021-2
+363,Female,Buenos Aires Province,FullStack Python,4.0,2021-2
+364,Male,Buenos Aires Province,FullStack PHP,4.0,2020-2
+365,Female,Buenos Aires Province,FullStack Python,4.0,2022-1
+366,Male,CABA,FullStack JavaScript / Node.js,Initial Programming,2020-2
+367,Female,CABA,Big Data,4.0,2021-2
+368,Female,Other Provinces,Testing QA,Advanced,2022-1
+369,Male,CABA,FullStack Python,4.0,2021-2
+370,Male,Buenos Aires Province,UX/UI Design,4.0,2020-2
+371,Male,Buenos Aires Province,FullStack PHP,4.0,2020-2
+372,Male,Buenos Aires Province,FullStack Java,4.0,2022-1
+373,Female,CABA,Big Data,4.0,2020-2
+374,Male,Other Provinces,FullStack PHP,Initial Programming,2021-1
+375,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+376,Female,CABA,UX/UI Design,4.0,2022-1
+377,Male,CABA,Big Data,4.0,2020-2
+378,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+379,Female,Other Provinces,Testing QA,4.0,2022-1
+380,Female,Buenos Aires Province,FullStack PHP,4.0,2021-1
+381,Female,CABA,FullStack PHP,Initial Programming,2020-2
+382,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+383,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+384,Male,CABA,Big Data,Initial Programming,2021-1
+385,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+386,Female,Buenos Aires Province,Big Data,4.0,2022-1
+387,Female,Other Provinces,FullStack JavaScript / Node.js,Advanced,2021-1
+388,Female,CABA,FullStack Python,4.0,2021-1
+389,Male,Other Provinces,UX/UI Design,Advanced,2021-2
+390,Female,Buenos Aires Province,Big Data,Initial Programming,2021-2
+391,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+392,Female,CABA,FullStack Java,Initial Programming,2021-1
+393,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+394,Male,Buenos Aires Province,UX/UI Design,Initial Programming,2020-2
+395,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+396,Male,Other Provinces,FullStack Java,4.0,2020-2
+397,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+398,Female,Buenos Aires Province,FullStack PHP,4.0,2021-1
+399,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+400,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+401,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+402,Female,CABA,FullStack PHP,4.0,2020-2
+403,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+404,Female,CABA,Big Data,4.0,2020-2
+405,Female,CABA,FullStack Python,4.0,2022-1
+406,Male,Buenos Aires Province,Big Data,4.0,2022-1
+407,Female,CABA,FullStack Python,4.0,2022-1
+408,Female,Other Provinces,FullStack Python,4.0,2022-1
+409,Male,CABA,FullStack Python,4.0,2020-2
+410,Female,Buenos Aires Province,FullStack PHP,4.0,2020-2
+411,Female,Buenos Aires Province,FullStack Python,4.0,2021-1
+412,Male,CABA,FullStack Java,4.0,2020-2
+413,Male,Other Provinces,FullStack Java,Initial Programming,2020-2
+414,Female,Buenos Aires Province,FullStack PHP,4.0,2020-2
+415,Female,CABA,FullStack PHP,4.0,2020-2
+416,Male,Buenos Aires Province,UX/UI Design,Advanced,2021-2
+417,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+418,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+419,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+420,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2022-1
+421,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-2
+422,Female,Buenos Aires Province,FullStack Python,Advanced,2020-2
+423,Female,Other Provinces,Big Data,4.0,2020-2
+424,Female,CABA,Big Data,4.0,2020-2
+425,Female,CABA,UX/UI Design,4.0,2022-1
+426,Female,CABA,FullStack Python,Advanced,2020-2
+427,Female,Other Provinces,FullStack PHP,4.0,2021-1
+428,Female,Buenos Aires Province,FullStack Python,4.0,2020-2
+429,Female,CABA,Testing QA,Initial Programming,2021-1
+430,Male,Buenos Aires Province,FullStack Java,4.0,2022-1
+431,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+432,Male,Buenos Aires Province,FullStack PHP,Initial Programming,2022-1
+433,Female,Buenos Aires Province,Testing QA,Initial Programming,2021-2
+434,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+435,Other,Buenos Aires Province,Big Data,4.0,2021-1
+436,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+437,Male,CABA,UX/UI Design,Advanced,2021-1
+438,Female,CABA,FullStack Java,4.0,2021-1
+439,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+440,Male,Other Provinces,UX/UI Design,4.0,2021-2
+441,Female,Other Provinces,FullStack PHP,4.0,2021-2
+442,Female,CABA,FullStack JavaScript / Node.js,Initial Programming,2021-1
+443,Male,Other Provinces,UX/UI Design,4.0,2020-2
+444,Other,Buenos Aires Province,FullStack PHP,4.0,2021-2
+445,Male,CABA,FullStack Java,Advanced,2021-1
+446,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+447,Male,Buenos Aires Province,Big Data,4.0,2021-1
+448,Male,CABA,Big Data,4.0,2022-1
+449,Male,CABA,FullStack Java,4.0,2020-2
+450,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+451,Male,Buenos Aires Province,UX/UI Design,4.0,2020-2
+452,Female,Other Provinces,FullStack Python,4.0,2020-2
+453,Other,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+454,Male,Buenos Aires Province,Big Data,Advanced,2021-2
+455,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+456,Female,CABA,FullStack Java,4.0,2021-2
+457,Female,Buenos Aires Province,FullStack PHP,4.0,2020-2
+458,Female,Other Provinces,FullStack Python,4.0,2022-1
+459,Male,CABA,Testing QA,4.0,2022-1
+460,Male,Buenos Aires Province,Testing QA,Initial Programming,2020-2
+461,Female,CABA,Testing QA,4.0,2021-2
+462,Female,Other Provinces,Testing QA,4.0,2022-1
+463,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+464,Female,Buenos Aires Province,FullStack PHP,4.0,2021-1
+465,Female,Other Provinces,FullStack Java,4.0,2022-1
+466,Female,Other Provinces,Testing QA,4.0,2021-2
+467,Male,Buenos Aires Province,UX/UI Design,4.0,2020-2
+468,Male,CABA,FullStack Java,4.0,2022-1
+469,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+470,Female,Other Provinces,FullStack Python,4.0,2021-1
+471,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+472,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+473,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+474,Female,Buenos Aires Province,Big Data,4.0,2021-2
+475,Female,CABA,FullStack Java,4.0,2022-1
+476,Male,CABA,UX/UI Design,4.0,2020-2
+477,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+478,Female,Buenos Aires Province,Big Data,4.0,2021-1
+479,Male,CABA,Big Data,Initial Programming,2021-1
+480,Male,Other Provinces,Testing QA,4.0,2021-2
+481,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+482,Male,Buenos Aires Province,UX/UI Design,Initial Programming,2020-2
+483,Female,CABA,Testing QA,Initial Programming,2022-1
+484,Female,Other Provinces,UX/UI Design,4.0,2020-2
+485,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+486,Male,Buenos Aires Province,FullStack Python,4.0,2020-2
+487,Female,Other Provinces,Big Data,4.0,2021-1
+488,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+489,Female,Buenos Aires Province,FullStack PHP,4.0,2021-2
+490,Female,CABA,FullStack Python,Initial Programming,2020-2
+491,Female,Other Provinces,UX/UI Design,4.0,2021-1
+492,Female,CABA,Big Data,4.0,2022-1
+493,Male,Buenos Aires Province,Big Data,4.0,2020-2
+494,Male,Buenos Aires Province,Big Data,Initial Programming,2021-1
+495,Female,Buenos Aires Province,FullStack PHP,Initial Programming,2020-2
+496,Female,Other Provinces,Big Data,4.0,2020-2
+497,Female,CABA,Big Data,4.0,2020-2
+498,Male,CABA,UX/UI Design,4.0,2021-1
+499,Male,CABA,UX/UI Design,4.0,2021-2
+500,Male,CABA,UX/UI Design,4.0,2021-1
+501,Male,CABA,Testing QA,4.0,2020-2
+502,Male,Buenos Aires Province,FullStack Java,4.0,2021-1
+503,Male,Buenos Aires Province,FullStack Python,4.0,2020-2
+504,Male,Other Provinces,Testing QA,4.0,2022-1
+505,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2020-2
+506,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+507,Female,CABA,Big Data,Advanced,2021-2
+508,Female,CABA,UX/UI Design,4.0,2022-1
+509,Male,Buenos Aires Province,FullStack PHP,4.0,2020-2
+510,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+511,Female,Buenos Aires Province,FullStack Python,4.0,2022-1
+512,Female,Buenos Aires Province,Testing QA,4.0,2022-1
+513,Female,CABA,Testing QA,4.0,2022-1
+514,Male,Buenos Aires Province,Big Data,4.0,2022-1
+515,Male,Buenos Aires Province,FullStack PHP,4.0,2020-2
+516,Female,Buenos Aires Province,FullStack Python,4.0,2020-2
+517,Male,Other Provinces,UX/UI Design,4.0,2020-2
+518,Female,CABA,UX/UI Design,4.0,2022-1
+519,Female,Other Provinces,FullStack Python,4.0,2022-1
+520,Female,Buenos Aires Province,FullStack PHP,Advanced,2021-2
+521,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-2
+522,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+523,Male,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+524,Female,Buenos Aires Province,UX/UI Design,Initial Programming,2021-1
+525,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+526,Male,CABA,UX/UI Design,4.0,2022-1
+527,Male,CABA,FullStack Java,4.0,2020-2
+528,Male,Buenos Aires Province,FullStack PHP,4.0,2022-1
+529,Male,CABA,FullStack Python,Advanced,2022-1
+530,Male,CABA,FullStack Java,4.0,2020-2
+531,Male,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+532,Female,CABA,FullStack JavaScript / Node.js,Initial Programming,2022-1
+533,Female,CABA,FullStack PHP,4.0,2021-2
+534,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+535,Female,Buenos Aires Province,Testing QA,Initial Programming,2020-2
+536,Male,Buenos Aires Province,FullStack PHP,Advanced,2022-1
+537,Female,Other Provinces,FullStack PHP,4.0,2020-2
+538,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+539,Male,CABA,Big Data,Initial Programming,2020-2
+540,Male,CABA,FullStack Java,4.0,2021-2
+541,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+542,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+543,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+544,Male,Buenos Aires Province,FullStack Python,Initial Programming,2020-2
+545,Male,CABA,UX/UI Design,Initial Programming,2020-2
+546,Male,CABA,FullStack Python,4.0,2022-1
+547,Male,Other Provinces,FullStack Java,Advanced,2020-2
+548,Male,Buenos Aires Province,FullStack Java,4.0,2022-1
+549,Male,CABA,Big Data,4.0,2022-1
+550,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+551,Male,Buenos Aires Province,FullStack Java,Initial Programming,2021-1
+552,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+553,Male,Other Provinces,Testing QA,4.0,2020-2
+554,Male,Buenos Aires Province,FullStack Java,Advanced,2021-2
+555,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+556,Male,Other Provinces,FullStack Python,Initial Programming,2020-2
+557,Male,CABA,FullStack PHP,Advanced,2022-1
+558,Female,CABA,Big Data,4.0,2021-2
+559,Male,CABA,FullStack Python,4.0,2021-2
+560,Female,Buenos Aires Province,FullStack PHP,4.0,2022-1
+561,Male,Buenos Aires Province,Big Data,4.0,2021-1
+562,Male,CABA,Testing QA,4.0,2022-1
+563,Female,Buenos Aires Province,Testing QA,4.0,2022-1
+564,Male,Buenos Aires Province,Big Data,4.0,2021-1
+565,Female,CABA,UX/UI Design,4.0,2021-2
+566,Male,Buenos Aires Province,Testing QA,Advanced,2020-2
+567,Male,Other Provinces,FullStack Java,4.0,2021-2
+568,Male,CABA,FullStack PHP,4.0,2021-1
+569,Female,CABA,UX/UI Design,4.0,2020-2
+570,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+571,Male,Buenos Aires Province,FullStack Python,4.0,2020-2
+572,Female,CABA,Big Data,Advanced,2021-2
+573,Male,CABA,FullStack PHP,4.0,2021-1
+574,Male,CABA,FullStack Python,Initial Programming,2022-1
+575,Male,CABA,Big Data,4.0,2021-2
+576,Male,Other Provinces,FullStack JavaScript / Node.js,Initial Programming,2021-2
+577,Male,Other Provinces,FullStack JavaScript / Node.js,Advanced,2021-1
+578,Female,Buenos Aires Province,FullStack PHP,Advanced,2020-2
+579,Male,Other Provinces,Testing QA,4.0,2021-2
+580,Male,CABA,FullStack PHP,4.0,2020-2
+581,Male,CABA,Testing QA,4.0,2022-1
+582,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+583,Female,CABA,FullStack Java,4.0,2022-1
+584,Female,Other Provinces,Big Data,Initial Programming,2022-1
+585,Male,Buenos Aires Province,Big Data,Advanced,2021-2
+586,Male,Buenos Aires Province,UX/UI Design,4.0,2021-2
+587,Male,Other Provinces,FullStack Java,4.0,2022-1
+588,Male,Other Provinces,Big Data,4.0,2020-2
+589,Male,Buenos Aires Province,Big Data,Initial Programming,2021-1
+590,Female,Buenos Aires Province,FullStack Python,Advanced,2021-2
+591,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+592,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+593,Female,Other Provinces,Testing QA,Initial Programming,2021-1
+594,Female,Other Provinces,UX/UI Design,4.0,2022-1
+595,Male,Other Provinces,Testing QA,Advanced,2022-1
+596,Male,CABA,Big Data,4.0,2022-1
+597,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+598,Male,Other Provinces,Testing QA,4.0,2020-2
+599,Male,Buenos Aires Province,FullStack PHP,Initial Programming,2020-2
+600,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+601,Female,CABA,Big Data,Initial Programming,2021-1
+602,Male,Buenos Aires Province,UX/UI Design,4.0,2020-2
+603,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+604,Female,CABA,FullStack Python,Initial Programming,2021-1
+605,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+606,Female,Other Provinces,UX/UI Design,Advanced,2021-2
+607,Female,Buenos Aires Province,FullStack Java,Advanced,2021-2
+608,Female,Buenos Aires Province,UX/UI Design,Initial Programming,2022-1
+609,Male,Other Provinces,FullStack PHP,4.0,2021-1
+610,Female,CABA,FullStack PHP,4.0,2021-1
+611,Male,Other Provinces,UX/UI Design,Advanced,2021-2
+612,Male,CABA,FullStack JavaScript / Node.js,Advanced,2022-1
+613,Male,CABA,FullStack Java,4.0,2021-1
+614,Male,CABA,FullStack Python,Initial Programming,2022-1
+615,Male,Other Provinces,Testing QA,4.0,2022-1
+616,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+617,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+618,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+619,Male,CABA,UX/UI Design,4.0,2022-1
+620,Male,CABA,FullStack Java,4.0,2021-1
+621,Male,Other Provinces,FullStack Java,4.0,2022-1
+622,Female,Buenos Aires Province,Testing QA,Initial Programming,2021-2
+623,Other,Buenos Aires Province,UX/UI Design,Advanced,2022-1
+624,Male,Buenos Aires Province,FullStack Java,Initial Programming,2020-2
+625,Female,CABA,FullStack Java,4.0,2021-1
+626,Female,Buenos Aires Province,FullStack PHP,4.0,2020-2
+627,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+628,Other,Buenos Aires Province,UX/UI Design,4.0,2020-2
+629,Male,CABA,FullStack PHP,4.0,2022-1
+630,Male,Other Provinces,UX/UI Design,4.0,2020-2
+631,Female,Buenos Aires Province,UX/UI Design,Initial Programming,2021-2
+632,Female,CABA,UX/UI Design,4.0,2022-1
+633,Male,Other Provinces,FullStack Python,4.0,2021-2
+634,Male,CABA,FullStack Java,4.0,2021-2
+635,Male,Buenos Aires Province,UX/UI Design,Advanced,2021-2
+636,Male,Buenos Aires Province,UX/UI Design,4.0,2022-1
+637,Female,CABA,UX/UI Design,4.0,2021-1
+638,Female,CABA,FullStack Python,4.0,2022-1
+639,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+640,Female,Other Provinces,FullStack PHP,4.0,2022-1
+641,Female,CABA,FullStack Python,4.0,2021-1
+642,Female,CABA,Testing QA,4.0,2021-2
+643,Female,CABA,FullStack PHP,4.0,2021-2
+644,Male,Buenos Aires Province,UX/UI Design,Advanced,2020-2
+645,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+646,Female,Buenos Aires Province,Big Data,4.0,2021-2
+647,Female,Buenos Aires Province,FullStack Python,Advanced,2020-2
+648,Female,Buenos Aires Province,Big Data,4.0,2021-2
+649,Female,CABA,Testing QA,4.0,2022-1
+650,Female,Other Provinces,FullStack PHP,4.0,2020-2
+651,Female,CABA,FullStack PHP,4.0,2022-1
+652,Female,Buenos Aires Province,FullStack Python,4.0,2021-1
+653,Female,CABA,FullStack Python,4.0,2021-2
+654,Female,CABA,Big Data,4.0,2022-1
+655,Female,CABA,UX/UI Design,4.0,2022-1
+656,Female,Other Provinces,UX/UI Design,4.0,2022-1
+657,Male,CABA,Testing QA,4.0,2021-1
+658,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+659,Male,Buenos Aires Province,FullStack Java,4.0,2020-2
+660,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+661,Male,Buenos Aires Province,FullStack PHP,Advanced,2022-1
+662,Female,Buenos Aires Province,FullStack Java,Advanced,2021-1
+663,Female,Buenos Aires Province,Big Data,Initial Programming,2021-2
+664,Other,Buenos Aires Province,FullStack Python,Advanced,2021-1
+665,Male,Buenos Aires Province,FullStack Python,Initial Programming,2020-2
+666,Female,Buenos Aires Province,Testing QA,Advanced,2022-1
+667,Female,Other Provinces,FullStack Python,4.0,2021-2
+668,Male,Buenos Aires Province,FullStack Java,4.0,2020-2
+669,Male,Other Provinces,FullStack PHP,4.0,2020-2
+670,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-2
+671,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+672,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+673,Male,CABA,FullStack JavaScript / Node.js,Initial Programming,2021-2
+674,Female,Buenos Aires Province,Testing QA,Advanced,2022-1
+675,Male,CABA,Testing QA,4.0,2021-1
+676,Female,CABA,FullStack PHP,4.0,2021-2
+677,Male,CABA,FullStack PHP,4.0,2020-2
+678,Female,CABA,UX/UI Design,4.0,2022-1
+679,Female,Buenos Aires Province,FullStack Python,4.0,2022-1
+680,Female,Other Provinces,FullStack PHP,Advanced,2021-2
+681,Male,Other Provinces,FullStack Python,4.0,2022-1
+682,Male,CABA,UX/UI Design,Advanced,2020-2
+683,Female,Other Provinces,FullStack Python,Initial Programming,2021-1
+684,Male,CABA,FullStack Python,4.0,2021-1
+685,Male,Buenos Aires Province,FullStack Python,4.0,2021-1
+686,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+687,Female,CABA,UX/UI Design,Advanced,2022-1
+688,Other,Buenos Aires Province,Testing QA,4.0,2022-1
+689,Male,CABA,FullStack PHP,4.0,2022-1
+690,Female,CABA,FullStack Python,4.0,2022-1
+691,Other,Other Provinces,FullStack Python,Initial Programming,2021-2
+692,Female,Buenos Aires Province,FullStack PHP,4.0,2022-1
+693,Female,CABA,Big Data,Initial Programming,2022-1
+694,Male,Buenos Aires Province,FullStack Java,4.0,2022-1
+695,Male,CABA,FullStack PHP,Advanced,2021-2
+696,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+697,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-1
+698,Male,Buenos Aires Province,FullStack Python,Advanced,2021-2
+699,Male,Other Provinces,FullStack Python,4.0,2022-1
+700,Female,CABA,FullStack Python,4.0,2022-1
+701,Male,Other Provinces,FullStack Python,4.0,2021-2
+702,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+703,Male,CABA,FullStack Python,4.0,2020-2
+704,Male,CABA,UX/UI Design,4.0,2021-1
+705,Male,CABA,FullStack JavaScript / Node.js,Initial Programming,2022-1
+706,Female,CABA,Big Data,4.0,2020-2
+707,Female,CABA,FullStack Python,4.0,2021-1
+708,Female,Other Provinces,FullStack PHP,4.0,2020-2
+709,Male,CABA,Big Data,4.0,2021-1
+710,Female,CABA,FullStack Java,4.0,2021-2
+711,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+712,Male,Other Provinces,Testing QA,4.0,2020-2
+713,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+714,Other,Buenos Aires Province,Big Data,4.0,2020-2
+715,Male,CABA,Big Data,4.0,2021-1
+716,Male,Other Provinces,FullStack Java,4.0,2021-1
+717,Male,Buenos Aires Province,Testing QA,4.0,2022-1
+718,Male,CABA,FullStack Python,Advanced,2021-2
+719,Female,CABA,Testing QA,4.0,2021-1
+720,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+721,Female,Other Provinces,FullStack Java,4.0,2021-2
+722,Male,CABA,FullStack Java,4.0,2022-1
+723,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+724,Male,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+725,Male,Other Provinces,Testing QA,4.0,2021-2
+726,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+727,Male,Buenos Aires Province,Big Data,Advanced,2020-2
+728,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+729,Female,Buenos Aires Province,Big Data,4.0,2021-1
+730,Male,CABA,FullStack Python,4.0,2021-2
+731,Female,Other Provinces,FullStack Python,4.0,2021-2
+732,Male,CABA,FullStack Java,Initial Programming,2020-2
+733,Male,Other Provinces,FullStack PHP,4.0,2021-1
+734,Male,Buenos Aires Province,UX/UI Design,Advanced,2022-1
+735,Male,Other Provinces,Testing QA,4.0,2022-1
+736,Male,Other Provinces,Big Data,4.0,2020-2
+737,Male,Buenos Aires Province,FullStack Python,4.0,2021-1
+738,Male,Buenos Aires Province,UX/UI Design,4.0,2020-2
+739,Male,CABA,FullStack Java,Advanced,2021-1
+740,Female,Other Provinces,FullStack PHP,4.0,2021-2
+741,Female,Buenos Aires Province,FullStack Python,Advanced,2022-1
+742,Other,CABA,Big Data,4.0,2021-2
+743,Female,Buenos Aires Province,Big Data,4.0,2020-2
+744,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-2
+745,Male,CABA,FullStack Java,4.0,2021-1
+746,Male,Other Provinces,FullStack PHP,4.0,2021-1
+747,Female,CABA,Testing QA,4.0,2021-1
+748,Male,Buenos Aires Province,UX/UI Design,4.0,2020-2
+749,Female,Buenos Aires Province,Testing QA,Advanced,2021-2
+750,Female,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+751,Female,CABA,UX/UI Design,Initial Programming,2022-1
+752,Female,CABA,FullStack Python,4.0,2022-1
+753,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2021-2
+754,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+755,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+756,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+757,Other,Buenos Aires Province,FullStack PHP,Advanced,2020-2
+758,Male,Buenos Aires Province,Big Data,Initial Programming,2021-1
+759,Male,Buenos Aires Province,Big Data,Initial Programming,2022-1
+760,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+761,Male,CABA,FullStack Java,4.0,2021-2
+762,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+763,Female,Buenos Aires Province,Big Data,Initial Programming,2021-2
+764,Male,CABA,Testing QA,Initial Programming,2022-1
+765,Female,Buenos Aires Province,Big Data,Advanced,2020-2
+766,Female,Buenos Aires Province,FullStack PHP,Advanced,2022-1
+767,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-1
+768,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+769,Male,CABA,FullStack Python,Initial Programming,2021-2
+770,Female,Buenos Aires Province,FullStack PHP,4.0,2022-1
+771,Female,Other Provinces,FullStack Java,4.0,2020-2
+772,Male,Other Provinces,FullStack Python,4.0,2021-2
+773,Male,Other Provinces,FullStack Python,4.0,2020-2
+774,Male,Buenos Aires Province,FullStack Python,Initial Programming,2021-2
+775,Male,CABA,FullStack PHP,4.0,2020-2
+776,Female,Buenos Aires Province,FullStack PHP,4.0,2020-2
+777,Male,Buenos Aires Province,Testing QA,Initial Programming,2022-1
+778,Male,CABA,FullStack Python,4.0,2021-1
+779,Other,CABA,UX/UI Design,Advanced,2021-1
+780,Male,Other Provinces,FullStack PHP,Advanced,2022-1
+781,Female,Buenos Aires Province,FullStack Java,Initial Programming,2022-1
+782,Male,Buenos Aires Province,Big Data,4.0,2021-2
+783,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+784,Female,CABA,Big Data,4.0,2021-1
+785,Female,CABA,Testing QA,Initial Programming,2020-2
+786,Female,Other Provinces,FullStack Python,4.0,2021-1
+787,Female,Other Provinces,UX/UI Design,Initial Programming,2020-2
+788,Male,CABA,Big Data,4.0,2021-2
+789,Female,Other Provinces,FullStack Java,4.0,2022-1
+790,Male,Other Provinces,Big Data,Initial Programming,2021-1
+791,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+792,Male,Buenos Aires Province,Big Data,Initial Programming,2021-2
+793,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+794,Male,Buenos Aires Province,UX/UI Design,Advanced,2020-2
+795,Female,Other Provinces,FullStack Python,4.0,2020-2
+796,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+797,Female,Buenos Aires Province,Big Data,4.0,2021-1
+798,Male,CABA,FullStack PHP,4.0,2021-1
+799,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+800,Female,Other Provinces,Testing QA,Advanced,2021-2
+801,Male,CABA,Big Data,4.0,2022-1
+802,Female,CABA,FullStack Python,4.0,2022-1
+803,Other,Other Provinces,UX/UI Design,4.0,2021-2
+804,Female,Buenos Aires Province,FullStack PHP,Advanced,2020-2
+805,Female,Buenos Aires Province,Big Data,4.0,2021-1
+806,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+807,Male,Other Provinces,FullStack Java,Advanced,2021-2
+808,Male,Other Provinces,FullStack Python,Initial Programming,2022-1
+809,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+810,Female,Other Provinces,FullStack Java,4.0,2020-2
+811,Male,CABA,Big Data,Advanced,2022-1
+812,Female,CABA,UX/UI Design,Advanced,2022-1
+813,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+814,Male,Buenos Aires Province,FullStack Python,Initial Programming,2020-2
+815,Male,Other Provinces,Testing QA,Advanced,2022-1
+816,Male,Buenos Aires Province,Testing QA,Initial Programming,2022-1
+817,Male,Buenos Aires Province,UX/UI Design,Initial Programming,2020-2
+818,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+819,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+820,Male,Buenos Aires Province,UX/UI Design,Advanced,2020-2
+821,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+822,Female,Buenos Aires Province,FullStack Java,Initial Programming,2020-2
+823,Female,Other Provinces,FullStack Python,4.0,2021-1
+824,Female,Other Provinces,FullStack Python,Advanced,2022-1
+825,Female,CABA,FullStack PHP,4.0,2022-1
+826,Female,CABA,FullStack Python,4.0,2021-1
+827,Female,CABA,Big Data,4.0,2021-1
+828,Female,Buenos Aires Province,UX/UI Design,Advanced,2021-2
+829,Female,Buenos Aires Province,FullStack Python,4.0,2021-2
+830,Male,Other Provinces,Big Data,Initial Programming,2022-1
+831,Male,Other Provinces,Big Data,4.0,2021-2
+832,Female,Other Provinces,FullStack Java,4.0,2020-2
+833,Male,Buenos Aires Province,FullStack Java,Advanced,2020-2
+834,Male,CABA,FullStack Java,4.0,2022-1
+835,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+836,Female,Other Provinces,Testing QA,Initial Programming,2020-2
+837,Other,CABA,FullStack Python,Initial Programming,2022-1
+838,Male,Other Provinces,UX/UI Design,4.0,2021-1
+839,Female,CABA,FullStack Python,Initial Programming,2020-2
+840,Female,Buenos Aires Province,Big Data,Initial Programming,2021-2
+841,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+842,Male,Other Provinces,Testing QA,4.0,2021-2
+843,Male,CABA,Big Data,4.0,2022-1
+844,Male,Buenos Aires Province,FullStack PHP,4.0,2020-2
+845,Female,CABA,Big Data,4.0,2022-1
+846,Female,Other Provinces,Big Data,4.0,2021-1
+847,Female,Other Provinces,Big Data,4.0,2021-2
+848,Male,Buenos Aires Province,Big Data,Advanced,2020-2
+849,Male,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+850,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+851,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+852,Female,Other Provinces,Testing QA,4.0,2020-2
+853,Female,CABA,UX/UI Design,4.0,2020-2
+854,Female,Buenos Aires Province,Big Data,4.0,2021-1
+855,Male,CABA,FullStack PHP,Advanced,2021-2
+856,Female,Buenos Aires Province,FullStack PHP,4.0,2022-1
+857,Female,CABA,Big Data,Initial Programming,2020-2
+858,Female,Buenos Aires Province,FullStack PHP,4.0,2021-2
+859,Female,Other Provinces,Testing QA,4.0,2021-1
+860,Female,CABA,FullStack Java,4.0,2021-2
+861,Female,CABA,FullStack PHP,4.0,2021-1
+862,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+863,Female,CABA,UX/UI Design,Advanced,2021-1
+864,Male,CABA,FullStack Python,Advanced,2022-1
+865,Male,Other Provinces,FullStack PHP,Advanced,2021-2
+866,Male,Buenos Aires Province,FullStack Java,Initial Programming,2021-2
+867,Female,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+868,Male,Other Provinces,FullStack Python,Initial Programming,2021-1
+869,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+870,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+871,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+872,Male,CABA,Big Data,Advanced,2020-2
+873,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+874,Female,Buenos Aires Province,Testing QA,Advanced,2021-2
+875,Female,CABA,UX/UI Design,4.0,2021-2
+876,Female,Other Provinces,FullStack Python,4.0,2021-1
+877,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+878,Female,Other Provinces,Big Data,4.0,2020-2
+879,Male,CABA,FullStack Python,Initial Programming,2020-2
+880,Female,CABA,FullStack JavaScript / Node.js,Initial Programming,2021-1
+881,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+882,Male,CABA,UX/UI Design,4.0,2021-1
+883,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+884,Female,Buenos Aires Province,FullStack Python,4.0,2021-1
+885,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+886,Male,CABA,UX/UI Design,4.0,2021-2
+887,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+888,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+889,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+890,Female,Buenos Aires Province,FullStack Python,4.0,2021-2
+891,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+892,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2022-1
+893,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+894,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+895,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+896,Male,Buenos Aires Province,FullStack PHP,4.0,2020-2
+897,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+898,Female,CABA,FullStack PHP,4.0,2021-2
+899,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-2
+900,Male,CABA,FullStack JavaScript / Node.js,Advanced,2020-2
+901,Female,CABA,FullStack Python,Initial Programming,2020-2
+902,Female,CABA,Testing QA,4.0,2020-2
+903,Male,Other Provinces,Big Data,4.0,2020-2
+904,Female,CABA,UX/UI Design,4.0,2021-2
+905,Female,CABA,FullStack Java,4.0,2021-2
+906,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+907,Female,CABA,Testing QA,4.0,2021-2
+908,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+909,Female,Buenos Aires Province,Testing QA,Initial Programming,2021-1
+910,Male,CABA,FullStack Python,4.0,2021-1
+911,Female,Buenos Aires Province,Testing QA,4.0,2022-1
+912,Male,Buenos Aires Province,Testing QA,Initial Programming,2020-2
+913,Female,CABA,Testing QA,4.0,2022-1
+914,Female,Buenos Aires Province,FullStack PHP,4.0,2020-2
+915,Female,Buenos Aires Province,UX/UI Design,Initial Programming,2021-2
+916,Male,CABA,Testing QA,4.0,2021-2
+917,Female,Buenos Aires Province,FullStack Python,Advanced,2022-1
+918,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+919,Male,Buenos Aires Province,Big Data,4.0,2021-1
+920,Female,Other Provinces,FullStack Java,4.0,2022-1
+921,Other,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+922,Male,CABA,Big Data,4.0,2021-2
+923,Male,Buenos Aires Province,FullStack Java,4.0,2020-2
+924,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+925,Male,Buenos Aires Province,Big Data,4.0,2021-1
+926,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-2
+927,Female,CABA,FullStack PHP,4.0,2020-2
+928,Female,Buenos Aires Province,Big Data,Initial Programming,2021-1
+929,Female,Other Provinces,FullStack JavaScript / Node.js,Initial Programming,2021-1
+930,Other,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+931,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+932,Female,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+933,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+934,Male,Buenos Aires Province,FullStack Java,4.0,2021-1
+935,Female,CABA,Big Data,4.0,2022-1
+936,Male,CABA,FullStack Java,Initial Programming,2022-1
+937,Female,Buenos Aires Province,FullStack Python,4.0,2020-2
+938,Female,Other Provinces,FullStack JavaScript / Node.js,Initial Programming,2021-2
+939,Male,Buenos Aires Province,FullStack Java,Initial Programming,2022-1
+940,Male,Other Provinces,UX/UI Design,Initial Programming,2022-1
+941,Female,Other Provinces,FullStack Python,Advanced,2022-1
+942,Female,Other Provinces,UX/UI Design,4.0,2020-2
+943,Female,Other Provinces,UX/UI Design,4.0,2021-1
+944,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+945,Male,Buenos Aires Province,UX/UI Design,Advanced,2022-1
+946,Female,Buenos Aires Province,Big Data,4.0,2021-2
+947,Female,CABA,Testing QA,4.0,2021-2
+948,Female,CABA,UX/UI Design,4.0,2020-2
+949,Female,CABA,FullStack Python,4.0,2022-1
+950,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+951,Female,CABA,Big Data,Advanced,2021-1
+952,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+953,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+954,Female,Other Provinces,Testing QA,4.0,2021-1
+955,Female,CABA,Big Data,4.0,2021-1
+956,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+957,Female,Buenos Aires Province,FullStack Python,4.0,2021-2
+958,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+959,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+960,Male,Other Provinces,FullStack Python,Initial Programming,2020-2
+961,Female,CABA,Big Data,4.0,2020-2
+962,Female,Buenos Aires Province,UX/UI Design,Advanced,2021-1
+963,Female,CABA,Big Data,4.0,2020-2
+964,Female,Other Provinces,FullStack Java,Advanced,2021-1
+965,Male,CABA,Big Data,Initial Programming,2021-1
+966,Male,CABA,FullStack PHP,4.0,2020-2
+967,Male,CABA,FullStack Python,4.0,2021-1
+968,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+969,Female,CABA,FullStack Java,4.0,2021-2
+970,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+971,Female,Buenos Aires Province,Big Data,4.0,2021-2
+972,Male,Buenos Aires Province,Big Data,Initial Programming,2021-1
+973,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+974,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+975,Female,CABA,FullStack Java,Advanced,2022-1
+976,Male,Other Provinces,FullStack Python,4.0,2021-1
+977,Female,Buenos Aires Province,FullStack Python,Advanced,2021-2
+978,Other,Buenos Aires Province,Big Data,4.0,2021-2
+979,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+980,Male,Buenos Aires Province,FullStack PHP,4.0,2020-2
+981,Female,Buenos Aires Province,Big Data,4.0,2021-2
+982,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+983,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+984,Female,CABA,Big Data,4.0,2021-1
+985,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+986,Female,CABA,Testing QA,4.0,2020-2
+987,Male,Other Provinces,FullStack Python,4.0,2021-2
+988,Male,CABA,FullStack Python,4.0,2021-2
+989,Female,CABA,Big Data,4.0,2021-1
+990,Male,Buenos Aires Province,UX/UI Design,4.0,2022-1
+991,Male,CABA,FullStack Python,4.0,2020-2
+992,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+993,Male,CABA,UX/UI Design,Initial Programming,2021-1
+994,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+995,Female,CABA,FullStack Python,4.0,2022-1
+996,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+997,Female,CABA,FullStack Java,Initial Programming,2022-1
+998,Other,CABA,Testing QA,4.0,2022-1
+999,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+1000,Female,Buenos Aires Province,FullStack PHP,4.0,2022-1
+1001,Male,Other Provinces,Testing QA,4.0,2022-1
+1002,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+1003,Male,Other Provinces,FullStack PHP,4.0,2021-1
+1004,Male,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+1005,Female,CABA,FullStack PHP,Advanced,2022-1
+1006,Female,CABA,FullStack JavaScript / Node.js,Advanced,2021-1
+1007,Female,CABA,Big Data,4.0,2021-2
+1008,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-2
+1009,Female,CABA,FullStack PHP,Advanced,2020-2
+1010,Female,CABA,Big Data,Advanced,2022-1
+1011,Male,CABA,Testing QA,4.0,2022-1
+1012,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+1013,Male,Buenos Aires Province,FullStack Python,Initial Programming,2021-2
+1014,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+1015,Female,CABA,Testing QA,4.0,2021-2
+1016,Male,Buenos Aires Province,FullStack Python,4.0,2021-1
+1017,Female,Buenos Aires Province,FullStack Python,Advanced,2021-1
+1018,Female,Buenos Aires Province,FullStack Python,4.0,2021-1
+1019,Female,Buenos Aires Province,FullStack Python,4.0,2022-1
+1020,Female,Buenos Aires Province,Big Data,4.0,2021-1
+1021,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+1022,Male,Buenos Aires Province,FullStack PHP,Advanced,2022-1
+1023,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+1024,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+1025,Male,CABA,UX/UI Design,4.0,2022-1
+1026,Male,CABA,UX/UI Design,4.0,2022-1
+1027,Female,CABA,FullStack Python,4.0,2022-1
+1028,Male,Buenos Aires Province,FullStack Python,Initial Programming,2022-1
+1029,Female,Buenos Aires Province,FullStack Python,4.0,2021-1
+1030,Female,CABA,Big Data,Initial Programming,2022-1
+1031,Male,CABA,UX/UI Design,Initial Programming,2020-2
+1032,Male,Other Provinces,UX/UI Design,4.0,2021-2
+1033,Other,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+1034,Male,CABA,FullStack Java,Initial Programming,2020-2
+1035,Female,CABA,FullStack Java,4.0,2020-2
+1036,Male,Buenos Aires Province,FullStack Python,Advanced,2020-2
+1037,Female,CABA,Big Data,4.0,2020-2
+1038,Female,Buenos Aires Province,Big Data,Advanced,2022-1
+1039,Male,Other Provinces,Testing QA,4.0,2021-2
+1040,Male,Buenos Aires Province,FullStack Java,4.0,2022-1
+1041,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+1042,Male,Other Provinces,FullStack Python,4.0,2022-1
+1043,Female,CABA,FullStack Java,4.0,2021-2
+1044,Male,CABA,Testing QA,Advanced,2022-1
+1045,Male,Other Provinces,UX/UI Design,4.0,2020-2
+1046,Male,Other Provinces,FullStack Java,4.0,2021-1
+1047,Female,Buenos Aires Province,FullStack Python,4.0,2022-1
+1048,Male,Buenos Aires Province,Big Data,4.0,2021-2
+1049,Female,Buenos Aires Province,Big Data,Advanced,2021-2
+1050,Male,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+1051,Male,Buenos Aires Province,FullStack Java,Advanced,2022-1
+1052,Male,Other Provinces,FullStack JavaScript / Node.js,Advanced,2020-2
+1053,Male,CABA,UX/UI Design,Initial Programming,2021-1
+1054,Male,Other Provinces,Testing QA,4.0,2020-2
+1055,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+1056,Female,Buenos Aires Province,Big Data,4.0,2022-1
+1057,Male,CABA,UX/UI Design,4.0,2021-1
+1058,Male,Buenos Aires Province,Big Data,4.0,2020-2
+1059,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1060,Male,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1061,Male,Other Provinces,FullStack Python,Advanced,2020-2
+1062,Male,Other Provinces,FullStack Python,4.0,2022-1
+1063,Female,Buenos Aires Province,Testing QA,Advanced,2021-1
+1064,Male,Buenos Aires Province,FullStack PHP,Initial Programming,2020-2
+1065,Male,Buenos Aires Province,FullStack Python,Initial Programming,2022-1
+1066,Male,Buenos Aires Province,Testing QA,4.0,2022-1
+1067,Male,CABA,Big Data,4.0,2021-2
+1068,Female,CABA,FullStack Python,4.0,2021-1
+1069,Male,CABA,FullStack Java,Advanced,2021-1
+1070,Male,Other Provinces,FullStack PHP,4.0,2020-2
+1071,Female,Buenos Aires Province,UX/UI Design,Advanced,2022-1
+1072,Other,CABA,FullStack Java,Advanced,2021-1
+1073,Male,Buenos Aires Province,UX/UI Design,Initial Programming,2020-2
+1074,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-2
+1075,Female,Other Provinces,Testing QA,4.0,2021-1
+1076,Male,Buenos Aires Province,FullStack PHP,Advanced,2021-2
+1077,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+1078,Male,CABA,FullStack Python,4.0,2020-2
+1079,Female,Other Provinces,FullStack PHP,4.0,2022-1
+1080,Male,CABA,FullStack Java,Advanced,2022-1
+1081,Female,Other Provinces,UX/UI Design,4.0,2021-1
+1082,Male,Other Provinces,UX/UI Design,4.0,2020-2
+1083,Male,Buenos Aires Province,Testing QA,4.0,2022-1
+1084,Male,CABA,Testing QA,4.0,2021-1
+1085,Other,Buenos Aires Province,FullStack Java,4.0,2022-1
+1086,Male,Other Provinces,Testing QA,4.0,2022-1
+1087,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+1088,Male,CABA,Testing QA,Advanced,2022-1
+1089,Female,CABA,Testing QA,4.0,2020-2
+1090,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-1
+1091,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+1092,Male,CABA,Testing QA,4.0,2021-1
+1093,Male,CABA,FullStack Python,4.0,2020-2
+1094,Male,Other Provinces,UX/UI Design,4.0,2022-1
+1095,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+1096,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+1097,Male,CABA,FullStack PHP,4.0,2021-2
+1098,Male,Other Provinces,FullStack Python,4.0,2022-1
+1099,Female,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+1100,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+1101,Male,Other Provinces,FullStack Python,4.0,2020-2
+1102,Male,Other Provinces,FullStack Python,4.0,2022-1
+1103,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+1104,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+1105,Female,Buenos Aires Province,FullStack PHP,Initial Programming,2022-1
+1106,Female,Buenos Aires Province,Testing QA,Advanced,2021-1
+1107,Female,Other Provinces,FullStack Python,4.0,2022-1
+1108,Female,CABA,FullStack Java,4.0,2020-2
+1109,Male,Other Provinces,FullStack PHP,4.0,2021-1
+1110,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+1111,Female,Other Provinces,FullStack PHP,Initial Programming,2020-2
+1112,Male,CABA,FullStack Python,4.0,2020-2
+1113,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+1114,Male,Other Provinces,Big Data,4.0,2020-2
+1115,Female,CABA,UX/UI Design,4.0,2020-2
+1116,Male,Other Provinces,Big Data,4.0,2020-2
+1117,Other,Buenos Aires Province,FullStack Java,4.0,2021-1
+1118,Female,Other Provinces,Big Data,4.0,2021-1
+1119,Female,Other Provinces,FullStack PHP,4.0,2021-2
+1120,Male,Buenos Aires Province,FullStack PHP,4.0,2022-1
+1121,Male,Buenos Aires Province,FullStack Java,4.0,2021-1
+1122,Male,Buenos Aires Province,Big Data,Initial Programming,2021-1
+1123,Female,CABA,Testing QA,4.0,2021-1
+1124,Male,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1125,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+1126,Male,CABA,FullStack Python,Initial Programming,2021-1
+1127,Female,CABA,FullStack Java,Advanced,2022-1
+1128,Male,CABA,UX/UI Design,4.0,2020-2
+1129,Male,CABA,FullStack Python,4.0,2021-1
+1130,Male,Buenos Aires Province,FullStack Python,Initial Programming,2021-1
+1131,Female,CABA,Testing QA,4.0,2022-1
+1132,Female,Other Provinces,UX/UI Design,Advanced,2020-2
+1133,Female,Buenos Aires Province,FullStack Python,4.0,2022-1
+1134,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+1135,Male,CABA,Testing QA,4.0,2021-1
+1136,Female,CABA,UX/UI Design,4.0,2022-1
+1137,Male,Buenos Aires Province,Big Data,4.0,2021-1
+1138,Male,Other Provinces,FullStack PHP,4.0,2022-1
+1139,Female,CABA,FullStack PHP,4.0,2021-2
+1140,Male,Buenos Aires Province,Big Data,4.0,2021-1
+1141,Female,Buenos Aires Province,UX/UI Design,Advanced,2021-2
+1142,Male,Buenos Aires Province,Testing QA,4.0,2022-1
+1143,Female,CABA,Big Data,4.0,2021-1
+1144,Male,CABA,FullStack PHP,Initial Programming,2021-2
+1145,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+1146,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+1147,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+1148,Female,Buenos Aires Province,FullStack Python,Advanced,2021-1
+1149,Female,Other Provinces,FullStack Java,4.0,2022-1
+1150,Male,Other Provinces,FullStack Python,4.0,2020-2
+1151,Female,CABA,Big Data,4.0,2021-1
+1152,Male,CABA,FullStack Java,4.0,2022-1
+1153,Male,CABA,FullStack JavaScript / Node.js,Advanced,2021-1
+1154,Female,Buenos Aires Province,FullStack Python,Initial Programming,2020-2
+1155,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+1156,Male,Buenos Aires Province,FullStack Python,4.0,2021-2
+1157,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+1158,Male,Other Provinces,FullStack Python,4.0,2021-1
+1159,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1160,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+1161,Female,CABA,FullStack Python,Initial Programming,2021-1
+1162,Male,Other Provinces,Testing QA,4.0,2020-2
+1163,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+1164,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2021-1
+1165,Male,Other Provinces,FullStack Python,Initial Programming,2020-2
+1166,Male,Other Provinces,Testing QA,4.0,2022-1
+1167,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+1168,Female,CABA,FullStack Java,4.0,2021-1
+1169,Female,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+1170,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+1171,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1172,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+1173,Female,CABA,Testing QA,4.0,2021-2
+1174,Female,Buenos Aires Province,Testing QA,4.0,2022-1
+1175,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+1176,Female,Other Provinces,UX/UI Design,4.0,2020-2
+1177,Female,CABA,FullStack JavaScript / Node.js,Advanced,2022-1
+1178,Male,Other Provinces,UX/UI Design,4.0,2021-1
+1179,Male,Other Provinces,FullStack Java,4.0,2020-2
+1180,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+1181,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+1182,Female,Other Provinces,Testing QA,4.0,2020-2
+1183,Female,CABA,Big Data,4.0,2021-1
+1184,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+1185,Female,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+1186,Male,CABA,UX/UI Design,4.0,2021-1
+1187,Female,Buenos Aires Province,Testing QA,Advanced,2021-2
+1188,Other,CABA,Testing QA,Advanced,2022-1
+1189,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+1190,Male,Buenos Aires Province,UX/UI Design,Initial Programming,2021-1
+1191,Other,Buenos Aires Province,FullStack Python,Advanced,2021-1
+1192,Female,CABA,Big Data,4.0,2021-2
+1193,Other,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+1194,Male,CABA,Big Data,Initial Programming,2022-1
+1195,Female,CABA,FullStack Python,4.0,2021-1
+1196,Female,Buenos Aires Province,Big Data,Advanced,2022-1
+1197,Male,CABA,FullStack Java,4.0,2021-2
+1198,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+1199,Female,CABA,Big Data,4.0,2020-2
+1200,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1201,Female,Other Provinces,Big Data,4.0,2022-1
+1202,Female,Other Provinces,FullStack Java,Initial Programming,2021-2
+1203,Female,CABA,Big Data,4.0,2021-1
+1204,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+1205,Female,CABA,FullStack PHP,4.0,2022-1
+1206,Female,CABA,FullStack Python,4.0,2020-2
+1207,Female,Other Provinces,FullStack Python,Initial Programming,2021-1
+1208,Female,Buenos Aires Province,Big Data,4.0,2020-2
+1209,Male,Buenos Aires Province,FullStack Java,4.0,2022-1
+1210,Other,CABA,FullStack Python,4.0,2021-1
+1211,Female,CABA,FullStack PHP,Initial Programming,2021-2
+1212,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+1213,Male,Buenos Aires Province,FullStack Python,Initial Programming,2020-2
+1214,Male,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+1215,Female,CABA,UX/UI Design,4.0,2021-2
+1216,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+1217,Male,Buenos Aires Province,FullStack Python,4.0,2020-2
+1218,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2022-1
+1219,Female,CABA,UX/UI Design,4.0,2020-2
+1220,Female,CABA,FullStack Python,Initial Programming,2020-2
+1221,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+1222,Female,CABA,FullStack Python,4.0,2021-2
+1223,Male,CABA,Big Data,4.0,2021-1
+1224,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+1225,Female,Buenos Aires Province,FullStack Python,4.0,2021-1
+1226,Other,CABA,Big Data,Initial Programming,2020-2
+1227,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+1228,Female,Buenos Aires Province,FullStack PHP,4.0,2021-2
+1229,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+1230,Female,CABA,Testing QA,4.0,2020-2
+1231,Male,CABA,FullStack Java,4.0,2021-1
+1232,Female,CABA,FullStack Python,Initial Programming,2020-2
+1233,Male,Buenos Aires Province,FullStack Python,4.0,2021-2
+1234,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+1235,Male,CABA,FullStack Java,4.0,2021-1
+1236,Male,Other Provinces,Testing QA,Initial Programming,2022-1
+1237,Female,CABA,FullStack Python,Initial Programming,2022-1
+1238,Female,Other Provinces,Big Data,4.0,2022-1
+1239,Female,CABA,Testing QA,4.0,2021-1
+1240,Female,Buenos Aires Province,FullStack Python,Advanced,2021-1
+1241,Male,CABA,UX/UI Design,4.0,2021-1
+1242,Male,Buenos Aires Province,UX/UI Design,4.0,2020-2
+1243,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2022-1
+1244,Female,Buenos Aires Province,FullStack Python,4.0,2020-2
+1245,Male,Buenos Aires Province,Big Data,4.0,2020-2
+1246,Male,Buenos Aires Province,FullStack Python,4.0,2020-2
+1247,Female,Buenos Aires Province,FullStack Java,Advanced,2021-1
+1248,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+1249,Male,CABA,FullStack Python,Advanced,2021-2
+1250,Male,CABA,UX/UI Design,4.0,2022-1
+1251,Male,Other Provinces,Testing QA,4.0,2021-1
+1252,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+1253,Male,CABA,FullStack PHP,4.0,2020-2
+1254,Female,CABA,FullStack PHP,4.0,2021-2
+1255,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+1256,Female,CABA,UX/UI Design,4.0,2022-1
+1257,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+1258,Male,Buenos Aires Province,FullStack Python,Initial Programming,2020-2
+1259,Male,Other Provinces,UX/UI Design,4.0,2020-2
+1260,Male,CABA,Big Data,4.0,2021-2
+1261,Female,Other Provinces,Big Data,Initial Programming,2020-2
+1262,Male,CABA,FullStack PHP,4.0,2021-2
+1263,Male,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1264,Male,CABA,Big Data,4.0,2021-2
+1265,Male,Buenos Aires Province,FullStack Java,4.0,2020-2
+1266,Male,Other Provinces,UX/UI Design,4.0,2021-1
+1267,Female,Buenos Aires Province,FullStack Python,4.0,2022-1
+1268,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+1269,Female,CABA,UX/UI Design,4.0,2021-1
+1270,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+1271,Male,Other Provinces,FullStack PHP,Advanced,2021-2
+1272,Female,Other Provinces,UX/UI Design,4.0,2022-1
+1273,Female,Buenos Aires Province,FullStack PHP,4.0,2022-1
+1274,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+1275,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+1276,Male,CABA,Big Data,4.0,2021-1
+1277,Other,CABA,FullStack PHP,Advanced,2022-1
+1278,Male,Other Provinces,Big Data,4.0,2021-2
+1279,Female,Other Provinces,Testing QA,4.0,2021-1
+1280,Female,CABA,Testing QA,Advanced,2022-1
+1281,Female,Other Provinces,Big Data,Initial Programming,2021-1
+1282,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+1283,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2021-2
+1284,Female,CABA,FullStack PHP,4.0,2020-2
+1285,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+1286,Female,CABA,UX/UI Design,4.0,2020-2
+1287,Female,Other Provinces,FullStack JavaScript / Node.js,Initial Programming,2021-1
+1288,Male,Buenos Aires Province,UX/UI Design,Advanced,2021-2
+1289,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+1290,Female,CABA,FullStack Python,Advanced,2020-2
+1291,Male,CABA,UX/UI Design,4.0,2020-2
+1292,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+1293,Male,Buenos Aires Province,FullStack Python,4.0,2021-1
+1294,Female,CABA,Big Data,4.0,2022-1
+1295,Other,CABA,UX/UI Design,Advanced,2022-1
+1296,Male,CABA,UX/UI Design,4.0,2020-2
+1297,Male,Buenos Aires Province,FullStack Java,Initial Programming,2022-1
+1298,Male,CABA,Testing QA,4.0,2021-2
+1299,Male,CABA,Big Data,4.0,2020-2
+1300,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+1301,Female,CABA,FullStack PHP,Initial Programming,2020-2
+1302,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+1303,Female,CABA,Big Data,4.0,2021-1
+1304,Female,Other Provinces,FullStack PHP,4.0,2020-2
+1305,Male,Buenos Aires Province,Big Data,4.0,2020-2
+1306,Female,Other Provinces,Big Data,4.0,2021-2
+1307,Male,Other Provinces,FullStack PHP,4.0,2021-1
+1308,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+1309,Male,CABA,FullStack JavaScript / Node.js,Initial Programming,2020-2
+1310,Male,Buenos Aires Province,Big Data,4.0,2022-1
+1311,Female,Other Provinces,Big Data,4.0,2021-2
+1312,Female,Buenos Aires Province,Big Data,4.0,2020-2
+1313,Male,CABA,UX/UI Design,4.0,2021-1
+1314,Male,CABA,FullStack PHP,4.0,2021-2
+1315,Female,CABA,FullStack Java,Advanced,2021-2
+1316,Male,Other Provinces,Big Data,4.0,2022-1
+1317,Female,Other Provinces,FullStack PHP,4.0,2020-2
+1318,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+1319,Male,CABA,Testing QA,4.0,2021-2
+1320,Male,Other Provinces,Testing QA,4.0,2020-2
+1321,Male,Buenos Aires Province,UX/UI Design,Initial Programming,2021-2
+1322,Female,CABA,FullStack Java,4.0,2021-2
+1323,Female,CABA,Testing QA,4.0,2022-1
+1324,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+1325,Male,CABA,Big Data,Initial Programming,2022-1
+1326,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+1327,Male,Other Provinces,UX/UI Design,Advanced,2022-1
+1328,Female,Other Provinces,FullStack Java,4.0,2021-2
+1329,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+1330,Male,Other Provinces,Big Data,4.0,2020-2
+1331,Male,CABA,Testing QA,Advanced,2020-2
+1332,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+1333,Male,Other Provinces,UX/UI Design,4.0,2022-1
+1334,Male,Buenos Aires Province,FullStack Java,Advanced,2022-1
+1335,Female,Buenos Aires Province,Testing QA,4.0,2022-1
+1336,Female,CABA,Big Data,4.0,2022-1
+1337,Male,CABA,FullStack Java,Advanced,2020-2
+1338,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+1339,Male,Buenos Aires Province,FullStack Java,4.0,2022-1
+1340,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+1341,Male,CABA,Big Data,4.0,2022-1
+1342,Female,Other Provinces,Testing QA,Advanced,2022-1
+1343,Other,CABA,UX/UI Design,Advanced,2020-2
+1344,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+1345,Male,CABA,Big Data,Advanced,2021-2
+1346,Female,CABA,FullStack Python,4.0,2022-1
+1347,Male,Buenos Aires Province,FullStack Python,4.0,2021-2
+1348,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+1349,Other,CABA,UX/UI Design,Advanced,2021-2
+1350,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+1351,Other,Buenos Aires Province,FullStack Python,4.0,2022-1
+1352,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+1353,Female,Buenos Aires Province,FullStack PHP,4.0,2021-1
+1354,Female,Other Provinces,FullStack Python,Advanced,2021-2
+1355,Female,Other Provinces,UX/UI Design,Initial Programming,2022-1
+1356,Male,CABA,FullStack Python,4.0,2022-1
+1357,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+1358,Male,Buenos Aires Province,FullStack PHP,Initial Programming,2020-2
+1359,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+1360,Male,Buenos Aires Province,FullStack PHP,Initial Programming,2022-1
+1361,Female,CABA,UX/UI Design,4.0,2020-2
+1362,Female,Buenos Aires Province,FullStack Java,Initial Programming,2021-2
+1363,Male,Other Provinces,FullStack Python,4.0,2022-1
+1364,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+1365,Female,Buenos Aires Province,FullStack PHP,4.0,2021-2
+1366,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+1367,Female,Buenos Aires Province,FullStack PHP,4.0,2022-1
+1368,Female,Other Provinces,FullStack Python,Advanced,2022-1
+1369,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+1370,Other,Other Provinces,Big Data,4.0,2020-2
+1371,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2020-2
+1372,Male,Buenos Aires Province,FullStack PHP,4.0,2020-2
+1373,Male,Buenos Aires Province,Testing QA,Advanced,2020-2
+1374,Male,Other Provinces,UX/UI Design,4.0,2021-1
+1375,Male,Buenos Aires Province,Big Data,4.0,2021-1
+1376,Male,Other Provinces,FullStack Java,4.0,2022-1
+1377,Female,Other Provinces,FullStack Python,4.0,2022-1
+1378,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1379,Female,Buenos Aires Province,FullStack Java,Initial Programming,2022-1
+1380,Male,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+1381,Female,CABA,FullStack Java,4.0,2021-2
+1382,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+1383,Male,Buenos Aires Province,FullStack PHP,4.0,2022-1
+1384,Male,Other Provinces,FullStack PHP,Initial Programming,2022-1
+1385,Female,Buenos Aires Province,FullStack Python,4.0,2021-1
+1386,Female,CABA,UX/UI Design,4.0,2022-1
+1387,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+1388,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+1389,Male,CABA,FullStack Java,4.0,2021-1
+1390,Female,CABA,Big Data,4.0,2021-1
+1391,Female,Buenos Aires Province,Big Data,4.0,2022-1
+1392,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2021-2
+1393,Female,Buenos Aires Province,UX/UI Design,Advanced,2021-2
+1394,Female,Other Provinces,FullStack Python,4.0,2022-1
+1395,Male,Buenos Aires Province,FullStack Java,Initial Programming,2020-2
+1396,Male,Buenos Aires Province,FullStack Python,Advanced,2020-2
+1397,Female,Other Provinces,Big Data,4.0,2020-2
+1398,Female,CABA,UX/UI Design,4.0,2020-2
+1399,Female,Other Provinces,Testing QA,Advanced,2021-1
+1400,Female,Buenos Aires Province,Big Data,4.0,2022-1
+1401,Female,Other Provinces,Big Data,4.0,2021-1
+1402,Male,Buenos Aires Province,FullStack Java,Initial Programming,2022-1
+1403,Male,CABA,Big Data,4.0,2021-1
+1404,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+1405,Female,CABA,FullStack Java,4.0,2022-1
+1406,Other,Buenos Aires Province,Big Data,Initial Programming,2021-1
+1407,Male,CABA,Big Data,Initial Programming,2021-1
+1408,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+1409,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+1410,Female,CABA,FullStack Python,Advanced,2021-1
+1411,Female,Buenos Aires Province,Big Data,4.0,2021-2
+1412,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+1413,Female,Other Provinces,UX/UI Design,4.0,2021-2
+1414,Female,Buenos Aires Province,FullStack Python,4.0,2021-2
+1415,Other,CABA,Testing QA,4.0,2021-2
+1416,Female,CABA,FullStack Python,Initial Programming,2022-1
+1417,Female,Buenos Aires Province,FullStack PHP,4.0,2021-2
+1418,Male,Buenos Aires Province,FullStack PHP,4.0,2022-1
+1419,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+1420,Female,Other Provinces,FullStack PHP,Initial Programming,2021-2
+1421,Male,CABA,Testing QA,4.0,2021-2
+1422,Female,CABA,Testing QA,4.0,2021-2
+1423,Female,CABA,UX/UI Design,4.0,2020-2
+1424,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1425,Female,CABA,Big Data,Initial Programming,2021-2
+1426,Female,Buenos Aires Province,FullStack Java,Advanced,2021-1
+1427,Male,Buenos Aires Province,FullStack PHP,Advanced,2021-1
+1428,Male,CABA,FullStack Java,4.0,2020-2
+1429,Male,Buenos Aires Province,FullStack Python,Initial Programming,2022-1
+1430,Female,CABA,UX/UI Design,Advanced,2020-2
+1431,Male,Buenos Aires Province,FullStack Java,Initial Programming,2022-1
+1432,Female,Buenos Aires Province,FullStack PHP,4.0,2021-2
+1433,Male,CABA,Big Data,4.0,2021-2
+1434,Female,Buenos Aires Province,FullStack PHP,4.0,2020-2
+1435,Male,CABA,Testing QA,4.0,2022-1
+1436,Female,Buenos Aires Province,FullStack PHP,4.0,2020-2
+1437,Female,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+1438,Male,Buenos Aires Province,FullStack Java,Advanced,2021-2
+1439,Female,CABA,Big Data,4.0,2021-2
+1440,Male,CABA,FullStack Java,Initial Programming,2022-1
+1441,Male,Buenos Aires Province,Big Data,4.0,2021-2
+1442,Male,CABA,UX/UI Design,4.0,2020-2
+1443,Male,CABA,FullStack Java,4.0,2022-1
+1444,Female,CABA,FullStack Python,Advanced,2021-2
+1445,Male,Buenos Aires Province,Big Data,4.0,2020-2
+1446,Female,Buenos Aires Province,Big Data,4.0,2020-2
+1447,Male,CABA,FullStack Java,4.0,2022-1
+1448,Female,CABA,UX/UI Design,Advanced,2022-1
+1449,Female,CABA,UX/UI Design,4.0,2022-1
+1450,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+1451,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+1452,Male,Buenos Aires Province,Big Data,Initial Programming,2021-2
+1453,Male,Buenos Aires Province,FullStack Java,4.0,2021-1
+1454,Male,Buenos Aires Province,UX/UI Design,4.0,2020-2
+1455,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+1456,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+1457,Male,CABA,Testing QA,4.0,2021-2
+1458,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+1459,Male,CABA,UX/UI Design,Initial Programming,2021-1
+1460,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+1461,Male,CABA,FullStack Java,4.0,2022-1
+1462,Female,CABA,Testing QA,4.0,2020-2
+1463,Female,Other Provinces,FullStack Python,4.0,2020-2
+1464,Female,Other Provinces,UX/UI Design,Advanced,2021-2
+1465,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+1466,Female,Other Provinces,Big Data,4.0,2021-2
+1467,Female,CABA,FullStack PHP,Initial Programming,2022-1
+1468,Male,CABA,FullStack Java,4.0,2021-2
+1469,Female,Buenos Aires Province,FullStack Python,4.0,2022-1
+1470,Female,CABA,UX/UI Design,Advanced,2021-2
+1471,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+1472,Male,Buenos Aires Province,Big Data,4.0,2021-1
+1473,Female,Other Provinces,FullStack PHP,4.0,2021-2
+1474,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+1475,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2022-1
+1476,Female,CABA,Testing QA,4.0,2021-2
+1477,Male,CABA,UX/UI Design,Initial Programming,2021-2
+1478,Male,Buenos Aires Province,FullStack Java,4.0,2020-2
+1479,Female,Buenos Aires Province,FullStack Python,Advanced,2022-1
+1480,Male,Other Provinces,FullStack Python,Initial Programming,2021-1
+1481,Female,Buenos Aires Province,UX/UI Design,Initial Programming,2021-1
+1482,Female,Buenos Aires Province,Big Data,4.0,2022-1
+1483,Female,CABA,FullStack Java,4.0,2020-2
+1484,Female,Buenos Aires Province,Big Data,Initial Programming,2021-2
+1485,Other,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+1486,Female,CABA,Big Data,4.0,2021-2
+1487,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+1488,Male,CABA,Testing QA,4.0,2021-2
+1489,Female,Buenos Aires Province,FullStack PHP,Advanced,2021-2
+1490,Male,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+1491,Male,CABA,FullStack Java,4.0,2022-1
+1492,Female,Buenos Aires Province,FullStack Python,Initial Programming,2020-2
+1493,Female,Buenos Aires Province,UX/UI Design,Advanced,2021-1
+1494,Female,CABA,FullStack PHP,4.0,2022-1
+1495,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+1496,Male,Other Provinces,FullStack Python,Initial Programming,2022-1
+1497,Other,Other Provinces,UX/UI Design,4.0,2021-2
+1498,Male,CABA,FullStack Java,4.0,2022-1
+1499,Male,Other Provinces,FullStack Java,Advanced,2021-2
+1500,Female,Buenos Aires Province,FullStack Python,4.0,2021-2
+1501,Male,CABA,Testing QA,4.0,2022-1
+1502,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+1503,Female,CABA,FullStack Python,4.0,2021-1
+1504,Female,CABA,FullStack Java,Advanced,2021-1
+1505,Female,CABA,Testing QA,Initial Programming,2021-2
+1506,Female,CABA,FullStack Java,Advanced,2020-2
+1507,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+1508,Male,CABA,FullStack Java,Initial Programming,2021-1
+1509,Female,CABA,Testing QA,4.0,2021-1
+1510,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+1511,Female,Other Provinces,FullStack Java,4.0,2021-1
+1512,Female,Other Provinces,UX/UI Design,4.0,2022-1
+1513,Female,Other Provinces,Big Data,4.0,2021-2
+1514,Male,Buenos Aires Province,UX/UI Design,4.0,2022-1
+1515,Male,CABA,FullStack PHP,4.0,2021-1
+1516,Male,CABA,UX/UI Design,4.0,2022-1
+1517,Male,CABA,Big Data,4.0,2021-2
+1518,Male,Buenos Aires Province,FullStack PHP,Initial Programming,2021-1
+1519,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+1520,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+1521,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2022-1
+1522,Female,Other Provinces,Big Data,4.0,2022-1
+1523,Female,CABA,FullStack Java,4.0,2021-1
+1524,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+1525,Female,Other Provinces,UX/UI Design,4.0,2022-1
+1526,Male,Buenos Aires Province,Testing QA,4.0,2022-1
+1527,Male,CABA,FullStack Java,4.0,2020-2
+1528,Female,CABA,FullStack Java,4.0,2022-1
+1529,Male,Other Provinces,Big Data,4.0,2020-2
+1530,Male,Buenos Aires Province,FullStack PHP,4.0,2022-1
+1531,Female,Other Provinces,FullStack Python,4.0,2021-1
+1532,Female,CABA,Big Data,Advanced,2022-1
+1533,Male,CABA,Big Data,4.0,2020-2
+1534,Female,Other Provinces,FullStack PHP,Advanced,2020-2
+1535,Female,CABA,Big Data,4.0,2022-1
+1536,Female,Other Provinces,FullStack Java,4.0,2022-1
+1537,Male,CABA,UX/UI Design,4.0,2021-2
+1538,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+1539,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+1540,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+1541,Female,CABA,FullStack Python,Advanced,2020-2
+1542,Male,Buenos Aires Province,FullStack Python,4.0,2021-2
+1543,Female,Buenos Aires Province,Big Data,4.0,2022-1
+1544,Female,Buenos Aires Province,Big Data,4.0,2021-2
+1545,Female,Buenos Aires Province,Big Data,Initial Programming,2021-2
+1546,Female,Buenos Aires Province,FullStack Python,4.0,2022-1
+1547,Female,Other Provinces,UX/UI Design,Initial Programming,2022-1
+1548,Male,Buenos Aires Province,Big Data,4.0,2021-1
+1549,Female,Other Provinces,FullStack PHP,4.0,2021-1
+1550,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+1551,Female,CABA,FullStack Python,4.0,2021-2
+1552,Female,Other Provinces,UX/UI Design,4.0,2021-2
+1553,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+1554,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+1555,Male,CABA,FullStack Python,4.0,2021-2
+1556,Female,CABA,FullStack PHP,4.0,2021-2
+1557,Male,Other Provinces,Big Data,4.0,2020-2
+1558,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+1559,Male,Buenos Aires Province,FullStack Python,4.0,2022-1
+1560,Female,CABA,Testing QA,Initial Programming,2021-1
+1561,Female,Other Provinces,FullStack Python,Initial Programming,2022-1
+1562,Male,Buenos Aires Province,Big Data,4.0,2020-2
+1563,Male,CABA,Testing QA,Initial Programming,2020-2
+1564,Female,Buenos Aires Province,FullStack Python,Initial Programming,2020-2
+1565,Male,CABA,FullStack Python,4.0,2022-1
+1566,Female,Other Provinces,FullStack PHP,4.0,2021-1
+1567,Female,Buenos Aires Province,FullStack Python,Initial Programming,2021-2
+1568,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+1569,Female,CABA,FullStack Python,4.0,2020-2
+1570,Female,Other Provinces,Big Data,Advanced,2021-2
+1571,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+1572,Female,Buenos Aires Province,FullStack Python,4.0,2022-1
+1573,Female,CABA,Testing QA,4.0,2022-1
+1574,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+1575,Male,Buenos Aires Province,FullStack Python,4.0,2022-1
+1576,Male,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1577,Female,Buenos Aires Province,Big Data,Initial Programming,2021-2
+1578,Female,Other Provinces,FullStack Java,4.0,2021-2
+1579,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+1580,Other,CABA,FullStack PHP,4.0,2021-1
+1581,Male,Other Provinces,FullStack PHP,4.0,2021-2
+1582,Female,CABA,FullStack Python,4.0,2020-2
+1583,Male,Other Provinces,FullStack Java,4.0,2020-2
+1584,Female,Buenos Aires Province,UX/UI Design,Initial Programming,2021-2
+1585,Male,CABA,UX/UI Design,Advanced,2021-2
+1586,Male,Buenos Aires Province,Big Data,4.0,2021-1
+1587,Male,Other Provinces,FullStack PHP,Advanced,2020-2
+1588,Female,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+1589,Male,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1590,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+1591,Male,Buenos Aires Province,FullStack Java,Initial Programming,2021-1
+1592,Female,CABA,Testing QA,4.0,2021-1
+1593,Male,Other Provinces,FullStack Python,4.0,2020-2
+1594,Male,CABA,Testing QA,4.0,2022-1
+1595,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-1
+1596,Female,CABA,FullStack PHP,4.0,2021-2
+1597,Female,CABA,Big Data,4.0,2021-1
+1598,Female,Buenos Aires Province,UX/UI Design,Advanced,2022-1
+1599,Male,Other Provinces,Testing QA,4.0,2020-2
+1600,Other,CABA,FullStack Python,4.0,2021-1
+1601,Male,CABA,UX/UI Design,4.0,2022-1
+1602,Female,CABA,FullStack Java,4.0,2021-1
+1603,Other,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+1604,Male,Buenos Aires Province,Big Data,4.0,2021-2
+1605,Male,CABA,FullStack Python,4.0,2021-2
+1606,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-2
+1607,Male,Buenos Aires Province,FullStack Java,Initial Programming,2021-1
+1608,Male,CABA,FullStack Python,4.0,2020-2
+1609,Female,Other Provinces,FullStack Python,4.0,2022-1
+1610,Female,CABA,UX/UI Design,Advanced,2021-1
+1611,Female,Buenos Aires Province,Big Data,4.0,2021-2
+1612,Male,Buenos Aires Province,Big Data,Initial Programming,2021-1
+1613,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2020-2
+1614,Female,Other Provinces,FullStack Java,4.0,2021-2
+1615,Male,CABA,Big Data,4.0,2020-2
+1616,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2020-2
+1617,Male,Buenos Aires Province,Big Data,4.0,2021-1
+1618,Female,CABA,FullStack JavaScript / Node.js,Advanced,2020-2
+1619,Male,CABA,Testing QA,Advanced,2021-2
+1620,Male,Other Provinces,Testing QA,4.0,2021-2
+1621,Male,Other Provinces,Testing QA,4.0,2021-1
+1622,Male,CABA,Testing QA,4.0,2022-1
+1623,Male,Buenos Aires Province,FullStack Python,4.0,2020-2
+1624,Male,Buenos Aires Province,FullStack Python,4.0,2021-2
+1625,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+1626,Male,Buenos Aires Province,FullStack PHP,Advanced,2021-2
+1627,Female,Buenos Aires Province,FullStack Python,Advanced,2021-1
+1628,Female,CABA,Testing QA,4.0,2021-2
+1629,Female,CABA,FullStack PHP,4.0,2021-2
+1630,Female,Buenos Aires Province,FullStack PHP,4.0,2021-2
+1631,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+1632,Female,Buenos Aires Province,FullStack Java,Advanced,2021-2
+1633,Male,Buenos Aires Province,Big Data,4.0,2022-1
+1634,Female,CABA,FullStack Java,4.0,2022-1
+1635,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+1636,Male,CABA,FullStack PHP,Initial Programming,2021-2
+1637,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+1638,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+1639,Female,Buenos Aires Province,Big Data,4.0,2021-1
+1640,Female,CABA,FullStack Python,4.0,2022-1
+1641,Male,CABA,FullStack Python,4.0,2021-1
+1642,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+1643,Female,Other Provinces,Testing QA,4.0,2021-2
+1644,Male,CABA,UX/UI Design,Initial Programming,2021-2
+1645,Female,Buenos Aires Province,Big Data,4.0,2020-2
+1646,Female,CABA,FullStack Java,Advanced,2022-1
+1647,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+1648,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+1649,Other,Other Provinces,FullStack Java,Advanced,2022-1
+1650,Male,CABA,Big Data,Advanced,2021-1
+1651,Female,CABA,UX/UI Design,Initial Programming,2020-2
+1652,Female,CABA,FullStack Java,4.0,2021-2
+1653,Male,Buenos Aires Province,FullStack PHP,Advanced,2020-2
+1654,Male,CABA,Testing QA,Initial Programming,2020-2
+1655,Male,Other Provinces,UX/UI Design,4.0,2022-1
+1656,Male,CABA,FullStack PHP,Initial Programming,2020-2
+1657,Male,Buenos Aires Province,FullStack PHP,4.0,2022-1
+1658,Female,CABA,FullStack PHP,4.0,2021-2
+1659,Male,CABA,Testing QA,Advanced,2021-2
+1660,Female,CABA,Big Data,4.0,2021-1
+1661,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-2
+1662,Female,Buenos Aires Province,Big Data,Initial Programming,2021-2
+1663,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2022-1
+1664,Female,Other Provinces,UX/UI Design,4.0,2021-1
+1665,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+1666,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+1667,Female,Buenos Aires Province,FullStack PHP,4.0,2021-1
+1668,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+1669,Male,Other Provinces,Big Data,4.0,2021-1
+1670,Female,CABA,FullStack PHP,4.0,2022-1
+1671,Male,CABA,Big Data,4.0,2022-1
+1672,Female,CABA,Big Data,Advanced,2021-1
+1673,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+1674,Female,Buenos Aires Province,FullStack PHP,4.0,2021-1
+1675,Male,CABA,Testing QA,4.0,2021-2
+1676,Male,Buenos Aires Province,FullStack Python,Advanced,2020-2
+1677,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+1678,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+1679,Male,Buenos Aires Province,FullStack Python,4.0,2021-1
+1680,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+1681,Female,CABA,FullStack PHP,Advanced,2021-2
+1682,Male,Buenos Aires Province,FullStack Java,4.0,2022-1
+1683,Female,Buenos Aires Province,FullStack Java,Initial Programming,2020-2
+1684,Female,Buenos Aires Province,Big Data,4.0,2022-1
+1685,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+1686,Male,CABA,FullStack Python,4.0,2021-1
+1687,Female,CABA,FullStack PHP,4.0,2021-2
+1688,Female,CABA,Big Data,4.0,2021-2
+1689,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1690,Male,CABA,FullStack PHP,4.0,2020-2
+1691,Male,Buenos Aires Province,UX/UI Design,4.0,2020-2
+1692,Female,Other Provinces,Testing QA,4.0,2021-1
+1693,Female,Other Provinces,FullStack PHP,4.0,2021-1
+1694,Female,Other Provinces,Big Data,4.0,2021-2
+1695,Female,Other Provinces,FullStack PHP,Advanced,2022-1
+1696,Male,Buenos Aires Province,Testing QA,4.0,2022-1
+1697,Female,CABA,FullStack Python,Initial Programming,2020-2
+1698,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+1699,Male,Other Provinces,FullStack Python,4.0,2020-2
+1700,Other,Other Provinces,FullStack Python,4.0,2021-1
+1701,Male,CABA,FullStack PHP,4.0,2021-2
+1702,Female,Buenos Aires Province,FullStack PHP,4.0,2020-2
+1703,Male,CABA,Big Data,Initial Programming,2022-1
+1704,Female,Buenos Aires Province,FullStack PHP,4.0,2021-2
+1705,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+1706,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+1707,Male,Other Provinces,UX/UI Design,4.0,2021-1
+1708,Female,CABA,Testing QA,4.0,2021-1
+1709,Male,CABA,UX/UI Design,4.0,2020-2
+1710,Male,Other Provinces,FullStack Python,4.0,2021-1
+1711,Female,CABA,FullStack PHP,Initial Programming,2021-1
+1712,Male,CABA,FullStack Python,4.0,2021-2
+1713,Male,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1714,Male,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1715,Male,Other Provinces,FullStack Python,Advanced,2022-1
+1716,Male,Buenos Aires Province,FullStack PHP,Advanced,2021-2
+1717,Male,CABA,UX/UI Design,4.0,2020-2
+1718,Other,Other Provinces,Testing QA,4.0,2021-2
+1719,Female,Buenos Aires Province,UX/UI Design,Advanced,2022-1
+1720,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+1721,Female,Buenos Aires Province,UX/UI Design,Initial Programming,2022-1
+1722,Male,Other Provinces,FullStack PHP,4.0,2022-1
+1723,Male,CABA,FullStack Java,Initial Programming,2021-1
+1724,Male,Buenos Aires Province,Big Data,Advanced,2021-2
+1725,Female,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+1726,Female,CABA,Big Data,Initial Programming,2021-2
+1727,Male,CABA,FullStack Python,4.0,2020-2
+1728,Female,Buenos Aires Province,FullStack PHP,4.0,2021-1
+1729,Male,Buenos Aires Province,Big Data,Initial Programming,2021-2
+1730,Female,Buenos Aires Province,FullStack Python,Advanced,2020-2
+1731,Male,CABA,FullStack Python,4.0,2021-2
+1732,Male,Buenos Aires Province,FullStack PHP,4.0,2020-2
+1733,Male,Buenos Aires Province,FullStack Java,4.0,2021-1
+1734,Other,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+1735,Female,CABA,FullStack Java,4.0,2021-2
+1736,Female,Buenos Aires Province,UX/UI Design,Initial Programming,2020-2
+1737,Female,CABA,FullStack PHP,4.0,2020-2
+1738,Male,Buenos Aires Province,Big Data,4.0,2021-1
+1739,Female,CABA,FullStack Python,4.0,2021-1
+1740,Female,Buenos Aires Province,Testing QA,4.0,2022-1
+1741,Male,CABA,FullStack Python,4.0,2021-2
+1742,Male,CABA,FullStack PHP,4.0,2022-1
+1743,Female,Buenos Aires Province,FullStack PHP,Advanced,2021-1
+1744,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-1
+1745,Male,Other Provinces,Testing QA,Advanced,2021-2
+1746,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+1747,Female,CABA,FullStack Python,4.0,2022-1
+1748,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+1749,Male,Buenos Aires Province,FullStack Python,4.0,2021-1
+1750,Female,Other Provinces,FullStack Python,Advanced,2022-1
+1751,Male,Buenos Aires Province,FullStack Python,4.0,2020-2
+1752,Female,Buenos Aires Province,Big Data,4.0,2022-1
+1753,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+1754,Male,CABA,Testing QA,4.0,2020-2
+1755,Female,CABA,Testing QA,4.0,2022-1
+1756,Male,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+1757,Male,Other Provinces,Testing QA,Initial Programming,2021-1
+1758,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+1759,Male,Other Provinces,Big Data,4.0,2021-2
+1760,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+1761,Female,CABA,FullStack PHP,4.0,2022-1
+1762,Male,CABA,FullStack Python,Advanced,2021-1
+1763,Female,Buenos Aires Province,FullStack PHP,4.0,2020-2
+1764,Male,Buenos Aires Province,Big Data,Initial Programming,2022-1
+1765,Female,CABA,FullStack PHP,4.0,2020-2
+1766,Female,Buenos Aires Province,Big Data,Initial Programming,2020-2
+1767,Male,Buenos Aires Province,FullStack Python,Initial Programming,2022-1
+1768,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+1769,Female,CABA,FullStack Java,4.0,2021-2
+1770,Male,Buenos Aires Province,FullStack Java,4.0,2021-1
+1771,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1772,Male,CABA,FullStack JavaScript / Node.js,Initial Programming,2021-1
+1773,Male,Other Provinces,FullStack Python,Initial Programming,2021-1
+1774,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+1775,Female,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+1776,Other,CABA,FullStack Python,4.0,2021-1
+1777,Female,CABA,FullStack JavaScript / Node.js,Initial Programming,2021-2
+1778,Female,Buenos Aires Province,FullStack PHP,Advanced,2021-1
+1779,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1780,Male,Other Provinces,FullStack Java,4.0,2021-2
+1781,Male,Other Provinces,FullStack PHP,4.0,2021-2
+1782,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+1783,Female,CABA,FullStack Python,4.0,2021-1
+1784,Female,CABA,Big Data,4.0,2021-1
+1785,Male,Buenos Aires Province,Testing QA,4.0,2022-1
+1786,Female,Buenos Aires Province,FullStack PHP,4.0,2021-2
+1787,Other,Buenos Aires Province,FullStack PHP,4.0,2022-1
+1788,Female,CABA,UX/UI Design,4.0,2021-1
+1789,Female,Other Provinces,UX/UI Design,4.0,2021-1
+1790,Female,Other Provinces,FullStack Java,Advanced,2020-2
+1791,Male,CABA,FullStack PHP,4.0,2022-1
+1792,Female,Buenos Aires Province,FullStack Java,Initial Programming,2020-2
+1793,Female,Buenos Aires Province,Testing QA,Advanced,2022-1
+1794,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+1795,Male,Other Provinces,Testing QA,Advanced,2021-1
+1796,Male,Other Provinces,Testing QA,4.0,2021-2
+1797,Male,Other Provinces,FullStack PHP,4.0,2022-1
+1798,Male,Buenos Aires Province,FullStack Python,4.0,2020-2
+1799,Male,Buenos Aires Province,FullStack Java,Advanced,2021-1
+1800,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2021-2
+1801,Male,CABA,FullStack PHP,4.0,2021-1
+1802,Female,CABA,FullStack Python,4.0,2020-2
+1803,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+1804,Male,CABA,FullStack Java,4.0,2021-2
+1805,Male,CABA,FullStack Java,Advanced,2020-2
+1806,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+1807,Other,Buenos Aires Province,FullStack Java,4.0,2020-2
+1808,Other,Other Provinces,Testing QA,Initial Programming,2022-1
+1809,Other,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-1
+1810,Female,Other Provinces,Testing QA,4.0,2020-2
+1811,Female,CABA,FullStack Python,Advanced,2021-1
+1812,Male,CABA,Testing QA,4.0,2021-1
+1813,Female,Other Provinces,Big Data,Initial Programming,2020-2
+1814,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+1815,Male,CABA,Testing QA,4.0,2021-1
+1816,Male,Buenos Aires Province,FullStack Java,Advanced,2021-2
+1817,Male,CABA,FullStack PHP,Initial Programming,2021-2
+1818,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+1819,Male,Buenos Aires Province,Big Data,4.0,2021-1
+1820,Male,Buenos Aires Province,FullStack Python,4.0,2021-2
+1821,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+1822,Male,Buenos Aires Province,FullStack Python,4.0,2020-2
+1823,Female,Buenos Aires Province,Big Data,4.0,2021-2
+1824,Female,Other Provinces,Big Data,4.0,2022-1
+1825,Female,Other Provinces,UX/UI Design,4.0,2020-2
+1826,Female,Buenos Aires Province,Big Data,4.0,2021-1
+1827,Male,CABA,FullStack Java,4.0,2022-1
+1828,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1829,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+1830,Male,Buenos Aires Province,FullStack Java,4.0,2020-2
+1831,Female,CABA,FullStack Java,4.0,2021-1
+1832,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+1833,Female,CABA,FullStack Java,4.0,2021-2
+1834,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+1835,Male,CABA,FullStack Python,4.0,2022-1
+1836,Male,Buenos Aires Province,UX/UI Design,4.0,2020-2
+1837,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+1838,Other,Buenos Aires Province,FullStack Python,4.0,2021-2
+1839,Female,Buenos Aires Province,FullStack PHP,4.0,2021-2
+1840,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+1841,Female,CABA,Big Data,4.0,2021-1
+1842,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+1843,Male,Buenos Aires Province,Big Data,4.0,2021-2
+1844,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+1845,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+1846,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+1847,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+1848,Male,Buenos Aires Province,FullStack Python,4.0,2022-1
+1849,Female,CABA,FullStack Python,Initial Programming,2021-2
+1850,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+1851,Female,Other Provinces,UX/UI Design,4.0,2020-2
+1852,Female,Buenos Aires Province,FullStack PHP,Initial Programming,2022-1
+1853,Male,CABA,UX/UI Design,4.0,2021-2
+1854,Male,Other Provinces,FullStack PHP,Advanced,2021-1
+1855,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+1856,Male,Buenos Aires Province,Big Data,4.0,2020-2
+1857,Female,Buenos Aires Province,Testing QA,Advanced,2021-2
+1858,Female,CABA,Big Data,4.0,2021-1
+1859,Female,CABA,FullStack Java,4.0,2020-2
+1860,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+1861,Male,CABA,FullStack PHP,4.0,2021-2
+1862,Female,CABA,Big Data,4.0,2022-1
+1863,Male,Buenos Aires Province,UX/UI Design,4.0,2022-1
+1864,Male,Other Provinces,FullStack Python,4.0,2021-1
+1865,Male,CABA,UX/UI Design,4.0,2021-2
+1866,Male,CABA,Testing QA,4.0,2021-2
+1867,Male,Other Provinces,FullStack Python,Initial Programming,2022-1
+1868,Male,Buenos Aires Province,FullStack Java,4.0,2022-1
+1869,Male,Other Provinces,Big Data,4.0,2021-1
+1870,Male,CABA,UX/UI Design,4.0,2021-2
+1871,Female,Buenos Aires Province,Big Data,Advanced,2022-1
+1872,Male,Buenos Aires Province,UX/UI Design,4.0,2022-1
+1873,Female,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+1874,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+1875,Female,Buenos Aires Province,Testing QA,4.0,2022-1
+1876,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+1877,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+1878,Female,CABA,FullStack Python,4.0,2020-2
+1879,Male,Buenos Aires Province,Testing QA,Initial Programming,2020-2
+1880,Female,CABA,FullStack PHP,4.0,2022-1
+1881,Male,CABA,FullStack Python,4.0,2022-1
+1882,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+1883,Male,CABA,Testing QA,4.0,2022-1
+1884,Male,Buenos Aires Province,FullStack Python,4.0,2021-2
+1885,Male,Other Provinces,Big Data,Advanced,2021-1
+1886,Other,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+1887,Female,CABA,FullStack Python,Initial Programming,2021-2
+1888,Female,Other Provinces,FullStack Python,4.0,2022-1
+1889,Female,Buenos Aires Province,Big Data,4.0,2020-2
+1890,Male,Buenos Aires Province,Big Data,Initial Programming,2021-2
+1891,Female,CABA,FullStack Java,4.0,2020-2
+1892,Male,CABA,FullStack Java,4.0,2022-1
+1893,Female,CABA,FullStack Python,4.0,2020-2
+1894,Male,Buenos Aires Province,Big Data,4.0,2022-1
+1895,Female,CABA,Big Data,Advanced,2021-1
+1896,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+1897,Female,Buenos Aires Province,FullStack PHP,Advanced,2021-1
+1898,Male,Other Provinces,FullStack Python,4.0,2022-1
+1899,Female,CABA,Big Data,4.0,2021-1
+1900,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+1901,Female,Other Provinces,Big Data,4.0,2021-2
+1902,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+1903,Female,Other Provinces,FullStack Java,4.0,2020-2
+1904,Male,Buenos Aires Province,Big Data,Advanced,2021-1
+1905,Male,Other Provinces,FullStack PHP,4.0,2021-1
+1906,Male,CABA,FullStack PHP,Advanced,2022-1
+1907,Female,Other Provinces,FullStack Java,Initial Programming,2021-1
+1908,Female,Buenos Aires Province,FullStack PHP,4.0,2022-1
+1909,Male,Buenos Aires Province,FullStack Java,4.0,2020-2
+1910,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+1911,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+1912,Female,CABA,FullStack Python,4.0,2021-2
+1913,Female,Buenos Aires Province,FullStack Python,4.0,2022-1
+1914,Male,Buenos Aires Province,FullStack Java,4.0,2022-1
+1915,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+1916,Female,Other Provinces,UX/UI Design,4.0,2022-1
+1917,Male,Buenos Aires Province,FullStack PHP,Initial Programming,2021-1
+1918,Male,CABA,Big Data,Initial Programming,2020-2
+1919,Male,Buenos Aires Province,FullStack Java,4.0,2020-2
+1920,Female,Other Provinces,FullStack Java,Advanced,2021-2
+1921,Female,CABA,FullStack Python,4.0,2022-1
+1922,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1923,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+1924,Male,CABA,FullStack Python,Initial Programming,2022-1
+1925,Other,Buenos Aires Province,FullStack PHP,4.0,2021-1
+1926,Female,Other Provinces,Big Data,4.0,2020-2
+1927,Female,CABA,Big Data,Advanced,2021-2
+1928,Female,CABA,Testing QA,4.0,2022-1
+1929,Male,Buenos Aires Province,UX/UI Design,4.0,2022-1
+1930,Male,CABA,Testing QA,4.0,2021-2
+1931,Male,Buenos Aires Province,FullStack Python,4.0,2021-2
+1932,Male,Buenos Aires Province,UX/UI Design,4.0,2022-1
+1933,Male,Buenos Aires Province,Testing QA,4.0,2022-1
+1934,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-2
+1935,Female,Other Provinces,Testing QA,4.0,2022-1
+1936,Male,Buenos Aires Province,Big Data,4.0,2022-1
+1937,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+1938,Female,CABA,UX/UI Design,4.0,2021-1
+1939,Male,Buenos Aires Province,Big Data,4.0,2022-1
+1940,Male,CABA,UX/UI Design,4.0,2021-1
+1941,Male,Buenos Aires Province,Big Data,4.0,2021-2
+1942,Female,Buenos Aires Province,Testing QA,4.0,2022-1
+1943,Male,Other Provinces,Testing QA,4.0,2021-1
+1944,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+1945,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1946,Female,CABA,Big Data,4.0,2021-1
+1947,Male,Buenos Aires Province,FullStack Python,4.0,2022-1
+1948,Other,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2020-2
+1949,Male,Other Provinces,Testing QA,4.0,2021-1
+1950,Female,Buenos Aires Province,Big Data,4.0,2020-2
+1951,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+1952,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+1953,Male,Buenos Aires Province,FullStack Python,4.0,2020-2
+1954,Female,Other Provinces,Big Data,Advanced,2021-2
+1955,Male,Other Provinces,FullStack Python,4.0,2020-2
+1956,Female,Buenos Aires Province,FullStack PHP,4.0,2022-1
+1957,Female,CABA,UX/UI Design,4.0,2021-2
+1958,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+1959,Male,Buenos Aires Province,FullStack Python,Advanced,2021-2
+1960,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+1961,Female,CABA,FullStack Python,4.0,2020-2
+1962,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+1963,Male,CABA,FullStack Python,4.0,2022-1
+1964,Female,Buenos Aires Province,FullStack Java,Advanced,2021-2
+1965,Male,Buenos Aires Province,UX/UI Design,4.0,2021-2
+1966,Female,Other Provinces,FullStack PHP,4.0,2021-2
+1967,Male,CABA,FullStack Python,Initial Programming,2021-1
+1968,Male,CABA,FullStack Python,4.0,2022-1
+1969,Male,CABA,Testing QA,Initial Programming,2021-1
+1970,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+1971,Male,CABA,UX/UI Design,Advanced,2021-2
+1972,Female,CABA,FullStack Java,Initial Programming,2022-1
+1973,Female,Other Provinces,FullStack Java,Initial Programming,2021-1
+1974,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+1975,Female,Other Provinces,FullStack Python,4.0,2021-1
+1976,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2022-1
+1977,Female,Other Provinces,FullStack Java,4.0,2021-1
+1978,Female,CABA,FullStack Java,4.0,2020-2
+1979,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+1980,Male,Other Provinces,Testing QA,4.0,2021-1
+1981,Male,Buenos Aires Province,Big Data,Advanced,2022-1
+1982,Male,Other Provinces,FullStack PHP,Initial Programming,2020-2
+1983,Female,Other Provinces,Testing QA,Advanced,2020-2
+1984,Other,CABA,FullStack PHP,4.0,2021-1
+1985,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+1986,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+1987,Other,CABA,FullStack Java,4.0,2020-2
+1988,Male,Buenos Aires Province,Big Data,4.0,2021-1
+1989,Male,CABA,UX/UI Design,4.0,2021-1
+1990,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+1991,Male,Buenos Aires Province,FullStack Java,4.0,2020-2
+1992,Female,CABA,Big Data,4.0,2022-1
+1993,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+1994,Female,CABA,FullStack JavaScript / Node.js,Initial Programming,2020-2
+1995,Male,Buenos Aires Province,FullStack Python,Advanced,2021-1
+1996,Male,Buenos Aires Province,Testing QA,4.0,2022-1
+1997,Other,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+1998,Male,CABA,FullStack PHP,4.0,2022-1
+1999,Male,Other Provinces,FullStack Java,4.0,2021-2
+2000,Male,CABA,FullStack Java,Initial Programming,2021-2
+2001,Male,CABA,Testing QA,4.0,2021-1
+2002,Male,CABA,FullStack PHP,4.0,2022-1
+2003,Male,CABA,Testing QA,4.0,2022-1
+2004,Male,CABA,Testing QA,4.0,2022-1
+2005,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+2006,Female,CABA,UX/UI Design,4.0,2021-1
+2007,Female,CABA,Testing QA,4.0,2022-1
+2008,Female,CABA,FullStack PHP,Advanced,2021-1
+2009,Male,CABA,UX/UI Design,4.0,2021-1
+2010,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+2011,Male,CABA,FullStack PHP,Advanced,2022-1
+2012,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+2013,Female,CABA,Testing QA,4.0,2021-2
+2014,Female,CABA,FullStack Python,4.0,2021-2
+2015,Male,CABA,FullStack Java,Advanced,2022-1
+2016,Male,Buenos Aires Province,Big Data,4.0,2022-1
+2017,Female,Buenos Aires Province,FullStack Python,4.0,2021-1
+2018,Other,Buenos Aires Province,Big Data,4.0,2021-1
+2019,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+2020,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+2021,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+2022,Male,Buenos Aires Province,FullStack Java,Advanced,2020-2
+2023,Female,CABA,FullStack Python,4.0,2022-1
+2024,Male,Buenos Aires Province,Big Data,4.0,2022-1
+2025,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+2026,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2020-2
+2027,Female,Buenos Aires Province,FullStack Java,Advanced,2021-2
+2028,Female,CABA,FullStack JavaScript / Node.js,Advanced,2021-1
+2029,Male,CABA,Testing QA,4.0,2022-1
+2030,Male,Other Provinces,FullStack PHP,4.0,2021-2
+2031,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+2032,Female,Buenos Aires Province,FullStack Python,Advanced,2021-2
+2033,Male,Other Provinces,FullStack Python,4.0,2020-2
+2034,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+2035,Male,Buenos Aires Province,Testing QA,4.0,2022-1
+2036,Male,CABA,FullStack Java,4.0,2022-1
+2037,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+2038,Female,Buenos Aires Province,Big Data,4.0,2021-1
+2039,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+2040,Male,Other Provinces,Big Data,4.0,2021-2
+2041,Female,Buenos Aires Province,Big Data,4.0,2021-2
+2042,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+2043,Male,Buenos Aires Province,FullStack PHP,Advanced,2020-2
+2044,Other,Buenos Aires Province,FullStack PHP,Advanced,2021-1
+2045,Male,Other Provinces,Big Data,4.0,2022-1
+2046,Male,Other Provinces,Testing QA,4.0,2020-2
+2047,Male,Buenos Aires Province,FullStack Java,Advanced,2022-1
+2048,Female,Other Provinces,FullStack Python,4.0,2021-1
+2049,Male,CABA,FullStack Python,Initial Programming,2021-2
+2050,Female,Buenos Aires Province,FullStack Python,4.0,2022-1
+2051,Male,Buenos Aires Province,FullStack Java,4.0,2020-2
+2052,Male,Buenos Aires Province,Big Data,4.0,2021-1
+2053,Female,CABA,Testing QA,4.0,2021-1
+2054,Male,Buenos Aires Province,FullStack PHP,4.0,2022-1
+2055,Male,CABA,Testing QA,4.0,2021-2
+2056,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+2057,Female,CABA,FullStack Java,Initial Programming,2021-1
+2058,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+2059,Male,Buenos Aires Province,Big Data,4.0,2021-2
+2060,Male,Other Provinces,FullStack Python,4.0,2021-1
+2061,Female,CABA,FullStack Java,4.0,2021-1
+2062,Male,CABA,FullStack Java,4.0,2020-2
+2063,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+2064,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+2065,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+2066,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+2067,Female,CABA,FullStack PHP,4.0,2020-2
+2068,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+2069,Male,CABA,UX/UI Design,Initial Programming,2021-1
+2070,Other,Buenos Aires Province,FullStack Java,4.0,2022-1
+2071,Female,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+2072,Female,Other Provinces,FullStack JavaScript / Node.js,Advanced,2020-2
+2073,Female,Other Provinces,Testing QA,4.0,2020-2
+2074,Female,Other Provinces,FullStack Java,4.0,2021-1
+2075,Other,CABA,FullStack Python,4.0,2022-1
+2076,Male,CABA,FullStack Java,Advanced,2021-2
+2077,Female,Other Provinces,UX/UI Design,4.0,2020-2
+2078,Female,CABA,FullStack Python,Advanced,2022-1
+2079,Male,CABA,Testing QA,4.0,2021-1
+2080,Male,Buenos Aires Province,FullStack Java,4.0,2022-1
+2081,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+2082,Male,Other Provinces,UX/UI Design,4.0,2021-2
+2083,Male,CABA,UX/UI Design,4.0,2020-2
+2084,Male,CABA,FullStack Python,4.0,2021-2
+2085,Male,CABA,FullStack Java,4.0,2020-2
+2086,Male,CABA,FullStack JavaScript / Node.js,Initial Programming,2020-2
+2087,Male,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+2088,Male,Buenos Aires Province,FullStack Python,4.0,2021-1
+2089,Female,CABA,UX/UI Design,4.0,2020-2
+2090,Female,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+2091,Other,Other Provinces,FullStack PHP,Advanced,2022-1
+2092,Female,Buenos Aires Province,FullStack Python,4.0,2020-2
+2093,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+2094,Female,Buenos Aires Province,FullStack PHP,4.0,2020-2
+2095,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+2096,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+2097,Female,CABA,Big Data,4.0,2022-1
+2098,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+2099,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+2100,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+2101,Male,CABA,FullStack JavaScript / Node.js,Advanced,2021-2
+2102,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+2103,Male,Buenos Aires Province,FullStack Python,4.0,2020-2
+2104,Male,Other Provinces,Big Data,4.0,2021-1
+2105,Male,Other Provinces,UX/UI Design,Initial Programming,2021-1
+2106,Female,CABA,FullStack JavaScript / Node.js,Initial Programming,2022-1
+2107,Male,CABA,Testing QA,4.0,2022-1
+2108,Female,CABA,FullStack PHP,4.0,2021-2
+2109,Male,CABA,FullStack Java,Initial Programming,2021-2
+2110,Female,Other Provinces,FullStack Java,4.0,2021-2
+2111,Male,Buenos Aires Province,FullStack PHP,Initial Programming,2022-1
+2112,Male,Buenos Aires Province,FullStack Java,Advanced,2021-2
+2113,Female,Buenos Aires Province,FullStack Python,4.0,2020-2
+2114,Other,CABA,UX/UI Design,4.0,2022-1
+2115,Male,CABA,FullStack Python,4.0,2021-2
+2116,Female,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+2117,Male,Other Provinces,Testing QA,Advanced,2021-1
+2118,Female,Other Provinces,FullStack PHP,4.0,2021-1
+2119,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+2120,Female,Buenos Aires Province,FullStack PHP,4.0,2021-1
+2121,Male,Buenos Aires Province,Big Data,4.0,2021-2
+2122,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+2123,Female,CABA,UX/UI Design,Advanced,2021-1
+2124,Male,Buenos Aires Province,UX/UI Design,4.0,2022-1
+2125,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+2126,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+2127,Female,CABA,FullStack Java,4.0,2020-2
+2128,Female,Buenos Aires Province,FullStack Python,Advanced,2021-2
+2129,Female,Buenos Aires Province,FullStack PHP,Initial Programming,2020-2
+2130,Female,Buenos Aires Province,UX/UI Design,Advanced,2022-1
+2131,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+2132,Female,CABA,FullStack JavaScript / Node.js,Initial Programming,2022-1
+2133,Male,CABA,FullStack Java,4.0,2020-2
+2134,Female,Other Provinces,UX/UI Design,4.0,2022-1
+2135,Female,Buenos Aires Province,FullStack Python,4.0,2021-1
+2136,Female,CABA,FullStack Java,4.0,2021-2
+2137,Female,CABA,FullStack Java,4.0,2020-2
+2138,Male,Buenos Aires Province,UX/UI Design,4.0,2022-1
+2139,Female,CABA,FullStack Python,Initial Programming,2022-1
+2140,Female,Other Provinces,Testing QA,4.0,2021-2
+2141,Male,Other Provinces,Big Data,4.0,2022-1
+2142,Male,CABA,FullStack Python,4.0,2022-1
+2143,Female,CABA,FullStack Python,4.0,2022-1
+2144,Male,CABA,Big Data,Advanced,2020-2
+2145,Other,Buenos Aires Province,FullStack PHP,Advanced,2021-2
+2146,Female,Other Provinces,FullStack JavaScript / Node.js,Initial Programming,2022-1
+2147,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+2148,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+2149,Female,Other Provinces,FullStack Java,4.0,2020-2
+2150,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+2151,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+2152,Female,Buenos Aires Province,FullStack Python,4.0,2022-1
+2153,Male,Other Provinces,FullStack JavaScript / Node.js,Initial Programming,2022-1
+2154,Female,CABA,Testing QA,4.0,2020-2
+2155,Male,CABA,Testing QA,4.0,2021-1
+2156,Female,Buenos Aires Province,FullStack PHP,4.0,2022-1
+2157,Male,Buenos Aires Province,Big Data,Initial Programming,2021-2
+2158,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2020-2
+2159,Male,Other Provinces,FullStack Python,4.0,2022-1
+2160,Male,CABA,FullStack PHP,4.0,2021-1
+2161,Female,Other Provinces,Big Data,4.0,2021-2
+2162,Male,Other Provinces,FullStack Python,4.0,2022-1
+2163,Male,CABA,Testing QA,4.0,2021-2
+2164,Female,Other Provinces,FullStack Java,Initial Programming,2022-1
+2165,Male,CABA,FullStack Python,4.0,2021-2
+2166,Male,CABA,FullStack PHP,4.0,2021-2
+2167,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+2168,Male,Other Provinces,FullStack Java,Advanced,2021-2
+2169,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+2170,Female,CABA,FullStack Python,4.0,2020-2
+2171,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+2172,Male,CABA,Testing QA,4.0,2022-1
+2173,Female,Other Provinces,FullStack Java,4.0,2021-1
+2174,Male,CABA,Big Data,4.0,2021-1
+2175,Male,Other Provinces,FullStack Python,4.0,2021-2
+2176,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+2177,Female,CABA,FullStack PHP,4.0,2022-1
+2178,Male,CABA,FullStack Java,4.0,2021-2
+2179,Female,Other Provinces,Big Data,Initial Programming,2021-2
+2180,Male,Other Provinces,FullStack Java,4.0,2021-1
+2181,Female,CABA,FullStack PHP,4.0,2021-1
+2182,Male,CABA,FullStack JavaScript / Node.js,Initial Programming,2021-1
+2183,Male,Other Provinces,UX/UI Design,Advanced,2021-1
+2184,Female,Other Provinces,UX/UI Design,4.0,2020-2
+2185,Female,Other Provinces,Testing QA,4.0,2022-1
+2186,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+2187,Female,Other Provinces,FullStack PHP,Advanced,2022-1
+2188,Male,Other Provinces,FullStack JavaScript / Node.js,Initial Programming,2021-2
+2189,Male,Other Provinces,Testing QA,Initial Programming,2021-2
+2190,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+2191,Male,CABA,FullStack Python,4.0,2021-1
+2192,Female,Other Provinces,FullStack Python,4.0,2021-1
+2193,Male,Buenos Aires Province,Big Data,4.0,2022-1
+2194,Male,CABA,Testing QA,4.0,2021-1
+2195,Male,Buenos Aires Province,FullStack Python,4.0,2021-1
+2196,Female,Buenos Aires Province,Big Data,4.0,2022-1
+2197,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2020-2
+2198,Male,CABA,FullStack PHP,4.0,2022-1
+2199,Male,CABA,FullStack Java,4.0,2022-1
+2200,Male,CABA,FullStack Python,Initial Programming,2021-2
+2201,Female,Buenos Aires Province,FullStack PHP,4.0,2021-2
+2202,Male,Buenos Aires Province,FullStack Python,4.0,2022-1
+2203,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+2204,Female,Buenos Aires Province,FullStack PHP,Initial Programming,2021-2
+2205,Female,Buenos Aires Province,FullStack PHP,Advanced,2022-1
+2206,Female,Buenos Aires Province,FullStack Python,4.0,2021-2
+2207,Male,Other Provinces,Big Data,4.0,2021-2
+2208,Male,Buenos Aires Province,Big Data,4.0,2020-2
+2209,Male,Buenos Aires Province,FullStack Python,4.0,2021-1
+2210,Female,Buenos Aires Province,Testing QA,Initial Programming,2021-1
+2211,Male,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+2212,Female,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+2213,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+2214,Male,CABA,FullStack Java,Advanced,2021-2
+2215,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+2216,Female,CABA,UX/UI Design,4.0,2021-1
+2217,Female,Buenos Aires Province,Big Data,Advanced,2021-2
+2218,Female,CABA,FullStack Java,Initial Programming,2020-2
+2219,Male,CABA,FullStack PHP,Initial Programming,2020-2
+2220,Male,CABA,Big Data,4.0,2020-2
+2221,Female,Buenos Aires Province,Big Data,4.0,2021-2
+2222,Male,Other Provinces,UX/UI Design,4.0,2022-1
+2223,Female,CABA,FullStack Java,4.0,2020-2
+2224,Male,Other Provinces,FullStack PHP,Advanced,2021-2
+2225,Male,Other Provinces,FullStack Python,4.0,2021-1
+2226,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+2227,Male,Other Provinces,Testing QA,Initial Programming,2020-2
+2228,Male,CABA,FullStack Java,Advanced,2020-2
+2229,Female,CABA,FullStack PHP,4.0,2021-1
+2230,Male,Buenos Aires Province,FullStack PHP,Advanced,2021-1
+2231,Other,Other Provinces,FullStack JavaScript / Node.js,Initial Programming,2022-1
+2232,Male,Other Provinces,FullStack Python,4.0,2020-2
+2233,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+2234,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+2235,Male,Other Provinces,Testing QA,4.0,2020-2
+2236,Male,CABA,FullStack Python,4.0,2021-2
+2237,Male,Buenos Aires Province,FullStack Python,4.0,2022-1
+2238,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+2239,Female,Buenos Aires Province,FullStack Java,Initial Programming,2022-1
+2240,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+2241,Male,CABA,FullStack JavaScript / Node.js,Advanced,2022-1
+2242,Female,Other Provinces,Testing QA,4.0,2021-2
+2243,Male,Buenos Aires Province,FullStack PHP,Initial Programming,2020-2
+2244,Female,CABA,FullStack PHP,4.0,2021-1
+2245,Male,Buenos Aires Province,FullStack PHP,Initial Programming,2020-2
+2246,Female,CABA,UX/UI Design,4.0,2021-2
+2247,Other,CABA,Testing QA,4.0,2022-1
+2248,Male,Buenos Aires Province,UX/UI Design,Advanced,2021-2
+2249,Male,CABA,UX/UI Design,Advanced,2020-2
+2250,Female,CABA,UX/UI Design,4.0,2021-2
+2251,Female,CABA,UX/UI Design,4.0,2020-2
+2252,Female,Buenos Aires Province,FullStack Python,4.0,2020-2
+2253,Male,CABA,UX/UI Design,4.0,2021-2
+2254,Other,Other Provinces,Testing QA,Initial Programming,2021-1
+2255,Female,Other Provinces,Big Data,Advanced,2021-1
+2256,Female,CABA,FullStack Python,Advanced,2021-2
+2257,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+2258,Female,Other Provinces,FullStack Python,4.0,2021-2
+2259,Female,CABA,Testing QA,Initial Programming,2022-1
+2260,Female,Other Provinces,UX/UI Design,4.0,2022-1
+2261,Female,CABA,FullStack Python,Advanced,2022-1
+2262,Female,Buenos Aires Province,UX/UI Design,Initial Programming,2021-1
+2263,Female,CABA,UX/UI Design,4.0,2022-1
+2264,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+2265,Male,Buenos Aires Province,FullStack Python,4.0,2022-1
+2266,Female,CABA,Testing QA,4.0,2021-2
+2267,Female,CABA,Testing QA,4.0,2021-1
+2268,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+2269,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+2270,Female,CABA,Testing QA,4.0,2022-1
+2271,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+2272,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2021-1
+2273,Female,Buenos Aires Province,FullStack Python,4.0,2021-1
+2274,Male,Buenos Aires Province,Big Data,4.0,2020-2
+2275,Male,CABA,FullStack Java,4.0,2021-1
+2276,Female,CABA,FullStack Python,4.0,2020-2
+2277,Female,CABA,FullStack Java,4.0,2020-2
+2278,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+2279,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+2280,Male,CABA,UX/UI Design,4.0,2021-1
+2281,Male,CABA,Big Data,4.0,2020-2
+2282,Female,Buenos Aires Province,FullStack PHP,4.0,2021-1
+2283,Male,CABA,Big Data,Initial Programming,2021-1
+2284,Male,Buenos Aires Province,Big Data,4.0,2022-1
+2285,Female,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+2286,Male,Buenos Aires Province,Big Data,4.0,2020-2
+2287,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+2288,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2021-1
+2289,Male,Buenos Aires Province,FullStack Java,4.0,2022-1
+2290,Female,Other Provinces,FullStack JavaScript / Node.js,Advanced,2021-2
+2291,Female,CABA,FullStack Python,4.0,2021-1
+2292,Other,Buenos Aires Province,FullStack Java,4.0,2021-1
+2293,Female,CABA,Testing QA,4.0,2021-2
+2294,Female,Buenos Aires Province,FullStack Python,4.0,2021-1
+2295,Other,CABA,FullStack Python,4.0,2021-2
+2296,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+2297,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+2298,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+2299,Male,CABA,UX/UI Design,Advanced,2021-1
+2300,Male,Other Provinces,FullStack Python,Initial Programming,2021-2
+2301,Male,Buenos Aires Province,Testing QA,4.0,2022-1
+2302,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+2303,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+2304,Male,Other Provinces,Testing QA,4.0,2022-1
+2305,Female,CABA,FullStack PHP,4.0,2021-1
+2306,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+2307,Male,CABA,UX/UI Design,4.0,2022-1
+2308,Male,CABA,FullStack Python,4.0,2021-1
+2309,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+2310,Female,CABA,UX/UI Design,Initial Programming,2021-1
+2311,Male,Buenos Aires Province,FullStack PHP,4.0,2020-2
+2312,Male,Buenos Aires Province,Big Data,Advanced,2020-2
+2313,Female,Other Provinces,Big Data,4.0,2021-2
+2314,Male,CABA,FullStack Java,Advanced,2021-1
+2315,Male,Other Provinces,FullStack Java,Initial Programming,2020-2
+2316,Female,Other Provinces,FullStack PHP,4.0,2022-1
+2317,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+2318,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+2319,Female,Buenos Aires Province,FullStack PHP,4.0,2022-1
+2320,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+2321,Male,Other Provinces,Big Data,Advanced,2021-1
+2322,Male,CABA,Big Data,4.0,2021-1
+2323,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+2324,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+2325,Male,Buenos Aires Province,UX/UI Design,4.0,2022-1
+2326,Male,Other Provinces,FullStack Python,Advanced,2021-2
+2327,Male,Other Provinces,FullStack Java,4.0,2020-2
+2328,Female,Buenos Aires Province,FullStack Python,4.0,2022-1
+2329,Male,CABA,Testing QA,4.0,2021-1
+2330,Other,CABA,FullStack Python,Initial Programming,2020-2
+2331,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+2332,Male,Buenos Aires Province,UX/UI Design,Advanced,2021-2
+2333,Male,CABA,FullStack Java,4.0,2020-2
+2334,Male,Other Provinces,Big Data,4.0,2021-1
+2335,Male,CABA,FullStack JavaScript / Node.js,Advanced,2021-2
+2336,Female,Buenos Aires Province,Testing QA,4.0,2022-1
+2337,Male,CABA,Big Data,Advanced,2021-1
+2338,Male,Other Provinces,Big Data,Advanced,2020-2
+2339,Female,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+2340,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+2341,Female,Other Provinces,Testing QA,4.0,2022-1
+2342,Female,CABA,FullStack Java,Advanced,2021-2
+2343,Male,Buenos Aires Province,FullStack Java,4.0,2020-2
+2344,Male,Other Provinces,Big Data,4.0,2021-2
+2345,Male,Other Provinces,Big Data,4.0,2021-1
+2346,Male,CABA,Big Data,Initial Programming,2021-1
+2347,Female,CABA,Testing QA,4.0,2021-1
+2348,Male,Other Provinces,Big Data,4.0,2020-2
+2349,Male,CABA,FullStack PHP,Advanced,2020-2
+2350,Female,Buenos Aires Province,Testing QA,4.0,2022-1
+2351,Male,CABA,FullStack Python,4.0,2020-2
+2352,Male,CABA,UX/UI Design,4.0,2021-1
+2353,Male,Other Provinces,UX/UI Design,4.0,2020-2
+2354,Male,CABA,FullStack JavaScript / Node.js,Advanced,2021-1
+2355,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+2356,Male,CABA,Testing QA,4.0,2021-1
+2357,Male,Buenos Aires Province,FullStack Python,4.0,2021-1
+2358,Female,Buenos Aires Province,FullStack PHP,Advanced,2020-2
+2359,Female,Buenos Aires Province,Big Data,4.0,2021-1
+2360,Other,CABA,FullStack PHP,4.0,2021-1
+2361,Male,Buenos Aires Province,Big Data,4.0,2021-1
+2362,Female,CABA,UX/UI Design,Initial Programming,2021-1
+2363,Female,Other Provinces,FullStack Java,4.0,2022-1
+2364,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+2365,Male,Buenos Aires Province,FullStack PHP,4.0,2020-2
+2366,Male,Other Provinces,FullStack Java,4.0,2021-2
+2367,Male,CABA,Big Data,4.0,2022-1
+2368,Female,Buenos Aires Province,FullStack PHP,Initial Programming,2022-1
+2369,Female,Buenos Aires Province,FullStack Python,4.0,2022-1
+2370,Female,Buenos Aires Province,Big Data,4.0,2021-2
+2371,Male,Other Provinces,FullStack Java,4.0,2020-2
+2372,Male,Buenos Aires Province,FullStack Java,4.0,2022-1
+2373,Female,Other Provinces,FullStack Java,4.0,2022-1
+2374,Female,Buenos Aires Province,FullStack PHP,4.0,2021-1
+2375,Female,CABA,FullStack Python,4.0,2021-2
+2376,Female,Other Provinces,FullStack Java,4.0,2022-1
+2377,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+2378,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+2379,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2021-1
+2380,Female,CABA,Testing QA,4.0,2021-1
+2381,Female,Other Provinces,UX/UI Design,4.0,2020-2
+2382,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+2383,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+2384,Male,Other Provinces,FullStack Java,4.0,2021-1
+2385,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+2386,Female,Other Provinces,FullStack JavaScript / Node.js,Initial Programming,2020-2
+2387,Female,CABA,FullStack Java,4.0,2022-1
+2388,Male,CABA,FullStack PHP,4.0,2022-1
+2389,Male,Buenos Aires Province,Big Data,4.0,2021-2
+2390,Male,CABA,FullStack Java,4.0,2022-1
+2391,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+2392,Female,Buenos Aires Province,FullStack Python,4.0,2021-1
+2393,Female,Other Provinces,Big Data,4.0,2020-2
+2394,Female,Buenos Aires Province,UX/UI Design,Initial Programming,2021-2
+2395,Male,Other Provinces,FullStack Java,4.0,2022-1
+2396,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+2397,Male,Other Provinces,FullStack Java,4.0,2021-1
+2398,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+2399,Male,Buenos Aires Province,Big Data,4.0,2021-2
+2400,Male,CABA,Testing QA,Initial Programming,2021-1
+2401,Male,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+2402,Male,Other Provinces,FullStack Python,4.0,2021-2
+2403,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+2404,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+2405,Female,CABA,Big Data,4.0,2021-2
+2406,Female,Buenos Aires Province,FullStack PHP,4.0,2021-1
+2407,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-2
+2408,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+2409,Male,Buenos Aires Province,Big Data,4.0,2021-2
+2410,Male,Buenos Aires Province,UX/UI Design,Initial Programming,2021-2
+2411,Female,Buenos Aires Province,FullStack Python,4.0,2020-2
+2412,Female,CABA,FullStack Java,Advanced,2020-2
+2413,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+2414,Female,Buenos Aires Province,UX/UI Design,4.0,2022-1
+2415,Male,Buenos Aires Province,FullStack PHP,4.0,2022-1
+2416,Male,CABA,FullStack Java,4.0,2022-1
+2417,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-2
+2418,Female,CABA,Big Data,4.0,2020-2
+2419,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+2420,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+2421,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+2422,Female,Other Provinces,Big Data,4.0,2021-2
+2423,Female,Buenos Aires Province,Big Data,Advanced,2020-2
+2424,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+2425,Male,CABA,Big Data,4.0,2021-1
+2426,Male,CABA,Testing QA,4.0,2021-2
+2427,Other,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+2428,Male,Buenos Aires Province,FullStack PHP,Advanced,2020-2
+2429,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-1
+2430,Male,CABA,UX/UI Design,4.0,2022-1
+2431,Female,Buenos Aires Province,Testing QA,Advanced,2021-2
+2432,Female,CABA,FullStack Python,4.0,2020-2
+2433,Female,Other Provinces,UX/UI Design,4.0,2022-1
+2434,Female,CABA,UX/UI Design,4.0,2021-1
+2435,Male,CABA,FullStack Java,4.0,2021-2
+2436,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+2437,Male,CABA,Big Data,4.0,2022-1
+2438,Male,CABA,FullStack PHP,Advanced,2020-2
+2439,Female,Buenos Aires Province,Big Data,Advanced,2021-2
+2440,Male,Buenos Aires Province,FullStack Java,Initial Programming,2021-1
+2441,Female,CABA,Big Data,4.0,2021-2
+2442,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+2443,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+2444,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+2445,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2022-1
+2446,Female,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+2447,Male,Other Provinces,UX/UI Design,4.0,2021-2
+2448,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+2449,Female,CABA,FullStack Python,4.0,2021-1
+2450,Male,Other Provinces,FullStack Java,4.0,2021-1
+2451,Male,CABA,UX/UI Design,4.0,2021-1
+2452,Male,CABA,FullStack Python,Advanced,2022-1
+2453,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-1
+2454,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+2455,Male,Buenos Aires Province,UX/UI Design,Advanced,2020-2
+2456,Male,Other Provinces,Testing QA,4.0,2020-2
+2457,Male,Other Provinces,FullStack Java,4.0,2020-2
+2458,Female,Buenos Aires Province,FullStack PHP,4.0,2021-1
+2459,Female,Buenos Aires Province,FullStack Python,4.0,2021-1
+2460,Other,Buenos Aires Province,FullStack Java,Initial Programming,2020-2
+2461,Female,Buenos Aires Province,FullStack Java,Initial Programming,2020-2
+2462,Male,CABA,FullStack Java,4.0,2022-1
+2463,Male,Other Provinces,Testing QA,4.0,2021-1
+2464,Female,Buenos Aires Province,FullStack Python,4.0,2020-2
+2465,Male,Other Provinces,UX/UI Design,4.0,2020-2
+2466,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-2
+2467,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+2468,Male,CABA,Big Data,Advanced,2022-1
+2469,Male,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+2470,Male,Buenos Aires Province,Big Data,4.0,2020-2
+2471,Male,Other Provinces,FullStack Java,4.0,2021-2
+2472,Male,CABA,FullStack Java,Advanced,2020-2
+2473,Male,Other Provinces,UX/UI Design,4.0,2021-1
+2474,Male,Other Provinces,FullStack Python,Advanced,2020-2
+2475,Male,Other Provinces,FullStack JavaScript / Node.js,Initial Programming,2022-1
+2476,Male,Buenos Aires Province,FullStack Python,4.0,2020-2
+2477,Female,CABA,FullStack Java,4.0,2022-1
+2478,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+2479,Male,Buenos Aires Province,FullStack Java,4.0,2021-2
+2480,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+2481,Other,Buenos Aires Province,UX/UI Design,Initial Programming,2022-1
+2482,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2020-2
+2483,Male,Other Provinces,FullStack Java,4.0,2021-2
+2484,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+2485,Male,CABA,Testing QA,4.0,2021-1
+2486,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+2487,Male,Buenos Aires Province,Testing QA,Advanced,2021-1
+2488,Male,Buenos Aires Province,Testing QA,4.0,2022-1
+2489,Male,Other Provinces,FullStack PHP,4.0,2020-2
+2490,Male,Buenos Aires Province,FullStack Java,Initial Programming,2021-1
+2491,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+2492,Male,CABA,Testing QA,4.0,2021-2
+2493,Male,Buenos Aires Province,FullStack Python,4.0,2022-1
+2494,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+2495,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+2496,Male,Other Provinces,FullStack PHP,4.0,2020-2
+2497,Male,Other Provinces,FullStack Python,Initial Programming,2021-2
+2498,Female,Buenos Aires Province,Testing QA,Initial Programming,2021-1
+2499,Male,CABA,Testing QA,Advanced,2021-1
+2500,Female,CABA,Big Data,4.0,2021-1
+2501,Female,Buenos Aires Province,Big Data,Advanced,2020-2
+2502,Female,Other Provinces,FullStack JavaScript / Node.js,Initial Programming,2021-2
+2503,Male,CABA,FullStack PHP,4.0,2021-2
+2504,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+2505,Male,Other Provinces,FullStack Python,Initial Programming,2020-2
+2506,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-2
+2507,Female,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+2508,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+2509,Male,Buenos Aires Province,Big Data,Advanced,2022-1
+2510,Female,Buenos Aires Province,Big Data,4.0,2022-1
+2511,Female,CABA,UX/UI Design,Advanced,2020-2
+2512,Female,Buenos Aires Province,UX/UI Design,Initial Programming,2022-1
+2513,Female,CABA,Testing QA,Advanced,2022-1
+2514,Female,Buenos Aires Province,Big Data,Advanced,2021-1
+2515,Male,Buenos Aires Province,Big Data,4.0,2022-1
+2516,Female,CABA,FullStack Java,4.0,2022-1
+2517,Male,Buenos Aires Province,FullStack Python,4.0,2020-2
+2518,Female,CABA,FullStack PHP,4.0,2022-1
+2519,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+2520,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2020-2
+2521,Male,Other Provinces,Big Data,4.0,2021-1
+2522,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+2523,Male,CABA,UX/UI Design,Advanced,2021-1
+2524,Female,Buenos Aires Province,Testing QA,Advanced,2022-1
+2525,Female,Buenos Aires Province,FullStack Python,4.0,2020-2
+2526,Female,CABA,FullStack Python,4.0,2020-2
+2527,Female,Buenos Aires Province,FullStack Python,4.0,2022-1
+2528,Female,Buenos Aires Province,FullStack Python,4.0,2021-2
+2529,Male,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+2530,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+2531,Female,CABA,FullStack Python,4.0,2021-2
+2532,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+2533,Female,CABA,FullStack PHP,Initial Programming,2021-1
+2534,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+2535,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+2536,Male,CABA,Big Data,Initial Programming,2021-1
+2537,Female,CABA,FullStack Python,4.0,2022-1
+2538,Female,CABA,Testing QA,Advanced,2020-2
+2539,Female,Buenos Aires Province,FullStack PHP,4.0,2020-2
+2540,Female,Other Provinces,FullStack Java,4.0,2021-1
+2541,Male,Other Provinces,UX/UI Design,4.0,2022-1
+2542,Female,CABA,UX/UI Design,4.0,2022-1
+2543,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+2544,Female,CABA,FullStack PHP,4.0,2021-1
+2545,Male,CABA,FullStack PHP,4.0,2020-2
+2546,Male,CABA,Testing QA,4.0,2022-1
+2547,Male,Buenos Aires Province,UX/UI Design,4.0,2021-2
+2548,Female,Buenos Aires Province,Big Data,4.0,2021-2
+2549,Male,CABA,FullStack Python,Initial Programming,2021-2
+2550,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+2551,Male,CABA,FullStack PHP,4.0,2022-1
+2552,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+2553,Male,CABA,Testing QA,4.0,2020-2
+2554,Female,CABA,Big Data,Advanced,2020-2
+2555,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+2556,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-2
+2557,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+2558,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+2559,Male,Other Provinces,FullStack PHP,Initial Programming,2021-1
+2560,Female,CABA,FullStack JavaScript / Node.js,Advanced,2021-2
+2561,Male,Buenos Aires Province,Big Data,4.0,2021-2
+2562,Male,Other Provinces,Testing QA,Advanced,2021-2
+2563,Male,CABA,FullStack Java,4.0,2021-1
+2564,Male,CABA,FullStack Java,4.0,2021-1
+2565,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+2566,Female,Buenos Aires Province,FullStack Python,4.0,2021-1
+2567,Male,Other Provinces,UX/UI Design,Advanced,2021-2
+2568,Female,Buenos Aires Province,FullStack Python,Initial Programming,2021-2
+2569,Female,Buenos Aires Province,FullStack PHP,4.0,2021-1
+2570,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+2571,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+2572,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+2573,Female,Buenos Aires Province,FullStack Java,Advanced,2022-1
+2574,Male,CABA,FullStack PHP,4.0,2020-2
+2575,Female,Other Provinces,Testing QA,4.0,2022-1
+2576,Female,CABA,FullStack Java,4.0,2022-1
+2577,Female,Other Provinces,FullStack PHP,4.0,2021-2
+2578,Male,Buenos Aires Province,FullStack Java,4.0,2020-2
+2579,Other,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+2580,Female,Buenos Aires Province,Big Data,4.0,2021-1
+2581,Female,Buenos Aires Province,Testing QA,Initial Programming,2020-2
+2582,Female,CABA,Big Data,4.0,2021-2
+2583,Female,CABA,FullStack Python,4.0,2022-1
+2584,Female,Other Provinces,FullStack PHP,4.0,2020-2
+2585,Female,CABA,FullStack PHP,Advanced,2021-2
+2586,Female,CABA,UX/UI Design,4.0,2021-2
+2587,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+2588,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+2589,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+2590,Male,CABA,UX/UI Design,4.0,2020-2
+2591,Male,Buenos Aires Province,FullStack Java,4.0,2022-1
+2592,Female,CABA,FullStack JavaScript / Node.js,Initial Programming,2021-1
+2593,Female,Buenos Aires Province,UX/UI Design,4.0,2021-1
+2594,Female,CABA,FullStack Python,Initial Programming,2021-2
+2595,Female,Other Provinces,Testing QA,4.0,2022-1
+2596,Female,CABA,Testing QA,Advanced,2020-2
+2597,Female,Buenos Aires Province,UX/UI Design,Advanced,2022-1
+2598,Male,Buenos Aires Province,Big Data,4.0,2021-2
+2599,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+2600,Female,Buenos Aires Province,FullStack PHP,Initial Programming,2022-1
+2601,Male,Buenos Aires Province,FullStack Java,Initial Programming,2021-1
+2602,Male,Buenos Aires Province,FullStack Python,4.0,2022-1
+2603,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+2604,Female,CABA,FullStack Python,4.0,2021-2
+2605,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2020-2
+2606,Male,Buenos Aires Province,FullStack Python,4.0,2020-2
+2607,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-2
+2608,Female,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+2609,Male,CABA,FullStack Java,4.0,2021-2
+2610,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+2611,Female,CABA,FullStack PHP,4.0,2021-1
+2612,Male,Other Provinces,FullStack Java,4.0,2020-2
+2613,Male,CABA,UX/UI Design,4.0,2020-2
+2614,Male,Buenos Aires Province,FullStack Java,4.0,2020-2
+2615,Male,CABA,UX/UI Design,4.0,2021-2
+2616,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+2617,Female,CABA,FullStack PHP,4.0,2020-2
+2618,Female,CABA,Big Data,4.0,2021-1
+2619,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+2620,Female,Other Provinces,UX/UI Design,4.0,2020-2
+2621,Female,CABA,Testing QA,4.0,2021-1
+2622,Male,Buenos Aires Province,FullStack PHP,Initial Programming,2021-2
+2623,Male,CABA,UX/UI Design,4.0,2021-1
+2624,Male,CABA,UX/UI Design,4.0,2021-2
+2625,Male,CABA,FullStack PHP,4.0,2020-2
+2626,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+2627,Male,CABA,FullStack PHP,4.0,2021-2
+2628,Male,CABA,UX/UI Design,4.0,2022-1
+2629,Female,CABA,UX/UI Design,4.0,2021-1
+2630,Male,Buenos Aires Province,Big Data,Initial Programming,2022-1
+2631,Female,CABA,FullStack PHP,4.0,2022-1
+2632,Male,Buenos Aires Province,FullStack PHP,4.0,2022-1
+2633,Male,Buenos Aires Province,FullStack Python,Advanced,2021-2
+2634,Male,Buenos Aires Province,Testing QA,4.0,2022-1
+2635,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2021-1
+2636,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+2637,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+2638,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+2639,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+2640,Male,CABA,Testing QA,Advanced,2021-1
+2641,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+2642,Male,CABA,UX/UI Design,Initial Programming,2021-1
+2643,Female,CABA,FullStack JavaScript / Node.js,Advanced,2021-2
+2644,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-2
+2645,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+2646,Female,CABA,FullStack Python,4.0,2020-2
+2647,Female,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+2648,Male,Other Provinces,Big Data,4.0,2021-2
+2649,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2020-2
+2650,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+2651,Female,CABA,FullStack PHP,4.0,2021-1
+2652,Female,CABA,FullStack Python,4.0,2021-2
+2653,Female,Buenos Aires Province,FullStack Python,4.0,2021-2
+2654,Female,Buenos Aires Province,Testing QA,Advanced,2022-1
+2655,Female,CABA,FullStack Java,4.0,2020-2
+2656,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+2657,Female,Buenos Aires Province,FullStack Python,Advanced,2020-2
+2658,Other,CABA,Testing QA,Advanced,2022-1
+2659,Female,Buenos Aires Province,FullStack Python,Advanced,2021-2
+2660,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+2661,Male,CABA,UX/UI Design,4.0,2020-2
+2662,Female,CABA,UX/UI Design,4.0,2021-1
+2663,Female,CABA,Testing QA,4.0,2021-1
+2664,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+2665,Other,CABA,Big Data,Initial Programming,2021-2
+2666,Male,Buenos Aires Province,UX/UI Design,4.0,2022-1
+2667,Male,CABA,FullStack Python,4.0,2022-1
+2668,Female,Buenos Aires Province,Testing QA,Advanced,2021-2
+2669,Male,Other Provinces,Testing QA,4.0,2022-1
+2670,Male,CABA,FullStack PHP,4.0,2021-2
+2671,Male,CABA,UX/UI Design,4.0,2021-2
+2672,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+2673,Male,Buenos Aires Province,FullStack Java,Initial Programming,2021-2
+2674,Male,CABA,FullStack Python,4.0,2022-1
+2675,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+2676,Female,CABA,UX/UI Design,4.0,2021-1
+2677,Male,CABA,UX/UI Design,Initial Programming,2020-2
+2678,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+2679,Female,CABA,Big Data,4.0,2021-1
+2680,Female,Buenos Aires Province,FullStack Python,4.0,2020-2
+2681,Male,Other Provinces,Big Data,4.0,2022-1
+2682,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+2683,Other,CABA,FullStack Java,4.0,2020-2
+2684,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+2685,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+2686,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+2687,Female,CABA,FullStack JavaScript / Node.js,Advanced,2020-2
+2688,Female,CABA,FullStack Python,4.0,2020-2
+2689,Female,Buenos Aires Province,Big Data,Initial Programming,2021-1
+2690,Other,CABA,UX/UI Design,4.0,2020-2
+2691,Female,Other Provinces,FullStack Java,4.0,2021-2
+2692,Male,CABA,UX/UI Design,Advanced,2021-2
+2693,Female,CABA,FullStack PHP,4.0,2020-2
+2694,Other,Buenos Aires Province,Testing QA,4.0,2021-1
+2695,Male,Other Provinces,Testing QA,4.0,2022-1
+2696,Female,Buenos Aires Province,FullStack PHP,Advanced,2020-2
+2697,Male,CABA,Big Data,Advanced,2022-1
+2698,Male,CABA,FullStack Python,4.0,2020-2
+2699,Male,CABA,FullStack Java,4.0,2020-2
+2700,Female,CABA,UX/UI Design,4.0,2022-1
+2701,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+2702,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+2703,Male,CABA,Testing QA,4.0,2021-2
+2704,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+2705,Male,CABA,Big Data,Advanced,2020-2
+2706,Female,Other Provinces,UX/UI Design,4.0,2021-1
+2707,Male,CABA,FullStack Java,Initial Programming,2021-2
+2708,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+2709,Female,Buenos Aires Province,FullStack Python,4.0,2021-2
+2710,Male,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+2711,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+2712,Female,Other Provinces,Testing QA,4.0,2021-2
+2713,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+2714,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+2715,Male,Buenos Aires Province,FullStack Python,Initial Programming,2022-1
+2716,Male,Other Provinces,Testing QA,4.0,2021-1
+2717,Female,Buenos Aires Province,FullStack Java,4.0,2022-1
+2718,Female,Other Provinces,FullStack Java,4.0,2021-1
+2719,Female,CABA,FullStack PHP,4.0,2022-1
+2720,Male,Other Provinces,FullStack Python,4.0,2021-1
+2721,Female,Buenos Aires Province,FullStack Python,Initial Programming,2021-2
+2722,Male,Other Provinces,FullStack Java,4.0,2021-2
+2723,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+2724,Female,CABA,FullStack Python,4.0,2021-2
+2725,Male,Other Provinces,FullStack PHP,4.0,2021-1
+2726,Female,Other Provinces,Testing QA,4.0,2020-2
+2727,Female,Buenos Aires Province,FullStack PHP,4.0,2021-2
+2728,Male,Buenos Aires Province,Big Data,Advanced,2021-2
+2729,Female,Buenos Aires Province,FullStack Python,4.0,2020-2
+2730,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+2731,Male,Other Provinces,UX/UI Design,4.0,2022-1
+2732,Female,Other Provinces,Testing QA,4.0,2020-2
+2733,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+2734,Female,CABA,UX/UI Design,4.0,2020-2
+2735,Female,Other Provinces,UX/UI Design,Advanced,2022-1
+2736,Female,CABA,Big Data,Initial Programming,2021-2
+2737,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+2738,Male,Other Provinces,Testing QA,Advanced,2021-2
+2739,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+2740,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+2741,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-2
+2742,Female,Buenos Aires Province,Big Data,4.0,2022-1
+2743,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2020-2
+2744,Female,Other Provinces,FullStack Python,4.0,2021-2
+2745,Female,CABA,FullStack Java,4.0,2022-1
+2746,Female,Buenos Aires Province,FullStack Python,4.0,2021-1
+2747,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+2748,Other,Buenos Aires Province,FullStack Python,Initial Programming,2020-2
+2749,Female,CABA,Big Data,Initial Programming,2020-2
+2750,Male,CABA,Testing QA,4.0,2021-2
+2751,Other,CABA,FullStack JavaScript / Node.js,Advanced,2021-2
+2752,Female,Buenos Aires Province,Testing QA,4.0,2022-1
+2753,Male,Buenos Aires Province,FullStack PHP,Advanced,2021-2
+2754,Male,Buenos Aires Province,Big Data,4.0,2021-2
+2755,Female,Other Provinces,FullStack PHP,Advanced,2021-2
+2756,Male,Other Provinces,FullStack PHP,4.0,2020-2
+2757,Other,CABA,FullStack Java,Advanced,2021-1
+2758,Male,Buenos Aires Province,UX/UI Design,4.0,2022-1
+2759,Other,Buenos Aires Province,FullStack Java,4.0,2020-2
+2760,Female,Buenos Aires Province,Testing QA,4.0,2022-1
+2761,Female,Buenos Aires Province,Testing QA,Initial Programming,2022-1
+2762,Female,CABA,FullStack Python,4.0,2022-1
+2763,Male,Buenos Aires Province,Big Data,Initial Programming,2021-1
+2764,Male,Other Provinces,Testing QA,Initial Programming,2022-1
+2765,Male,Buenos Aires Province,FullStack Java,Advanced,2021-2
+2766,Female,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+2767,Female,Buenos Aires Province,FullStack Python,4.0,2021-2
+2768,Male,Buenos Aires Province,Testing QA,Advanced,2020-2
+2769,Other,Other Provinces,Big Data,4.0,2021-1
+2770,Male,Buenos Aires Province,FullStack PHP,4.0,2020-2
+2771,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+2772,Female,Other Provinces,Testing QA,4.0,2021-2
+2773,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+2774,Female,CABA,FullStack Java,Advanced,2021-1
+2775,Male,Other Provinces,UX/UI Design,Advanced,2021-2
+2776,Female,Buenos Aires Province,Big Data,4.0,2021-2
+2777,Female,CABA,FullStack Java,4.0,2022-1
+2778,Female,Other Provinces,FullStack Java,4.0,2021-1
+2779,Male,Other Provinces,FullStack PHP,4.0,2020-2
+2780,Female,CABA,FullStack Java,Advanced,2021-2
+2781,Female,CABA,FullStack PHP,Advanced,2021-1
+2782,Male,CABA,Big Data,Initial Programming,2021-2
+2783,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+2784,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+2785,Male,Buenos Aires Province,Big Data,4.0,2022-1
+2786,Male,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+2787,Male,CABA,Big Data,Advanced,2021-1
+2788,Female,Other Provinces,FullStack PHP,Advanced,2020-2
+2789,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Initial Programming,2021-2
+2790,Female,CABA,UX/UI Design,Advanced,2021-1
+2791,Female,CABA,FullStack Python,4.0,2020-2
+2792,Male,CABA,UX/UI Design,4.0,2021-1
+2793,Female,Other Provinces,Testing QA,Initial Programming,2021-1
+2794,Other,CABA,FullStack PHP,4.0,2021-2
+2795,Male,Buenos Aires Province,Testing QA,4.0,2021-1
+2796,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+2797,Male,Buenos Aires Province,Testing QA,Initial Programming,2021-2
+2798,Female,Buenos Aires Province,FullStack PHP,Initial Programming,2022-1
+2799,Male,CABA,UX/UI Design,4.0,2020-2
+2800,Male,CABA,FullStack PHP,4.0,2022-1
+2801,Female,CABA,FullStack PHP,4.0,2021-1
+2802,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+2803,Male,Buenos Aires Province,FullStack Python,4.0,2021-1
+2804,Female,CABA,UX/UI Design,Advanced,2020-2
+2805,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+2806,Female,CABA,Big Data,4.0,2021-1
+2807,Male,Other Provinces,Big Data,Advanced,2022-1
+2808,Female,CABA,UX/UI Design,4.0,2021-1
+2809,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+2810,Female,Buenos Aires Province,FullStack Python,Initial Programming,2021-2
+2811,Female,CABA,FullStack Python,4.0,2021-1
+2812,Female,Buenos Aires Province,Testing QA,4.0,2021-1
+2813,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+2814,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+2815,Male,Other Provinces,FullStack Python,Advanced,2022-1
+2816,Male,CABA,Big Data,4.0,2021-2
+2817,Female,CABA,FullStack JavaScript / Node.js,Advanced,2020-2
+2818,Female,Buenos Aires Province,Big Data,Advanced,2022-1
+2819,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+2820,Male,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+2821,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+2822,Female,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+2823,Female,Other Provinces,FullStack PHP,4.0,2021-1
+2824,Female,Buenos Aires Province,FullStack PHP,4.0,2021-2
+2825,Male,CABA,FullStack Python,4.0,2021-2
+2826,Male,CABA,FullStack PHP,Advanced,2020-2
+2827,Female,CABA,Testing QA,4.0,2021-1
+2828,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+2829,Male,Other Provinces,Big Data,4.0,2021-1
+2830,Male,CABA,FullStack Python,4.0,2022-1
+2831,Male,CABA,UX/UI Design,4.0,2021-1
+2832,Female,CABA,Testing QA,4.0,2022-1
+2833,Female,Other Provinces,FullStack PHP,4.0,2021-1
+2834,Male,Buenos Aires Province,FullStack PHP,Advanced,2021-2
+2835,Female,Buenos Aires Province,UX/UI Design,Initial Programming,2021-1
+2836,Female,Other Provinces,FullStack Java,4.0,2022-1
+2837,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-1
+2838,Female,Buenos Aires Province,FullStack Python,Initial Programming,2020-2
+2839,Female,Other Provinces,UX/UI Design,4.0,2022-1
+2840,Male,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+2841,Female,Other Provinces,FullStack PHP,Advanced,2022-1
+2842,Male,CABA,UX/UI Design,Advanced,2021-1
+2843,Female,CABA,Big Data,Advanced,2022-1
+2844,Female,CABA,FullStack PHP,4.0,2022-1
+2845,Male,CABA,UX/UI Design,Initial Programming,2020-2
+2846,Female,CABA,FullStack PHP,4.0,2021-1
+2847,Female,Buenos Aires Province,FullStack PHP,Advanced,2021-1
+2848,Male,Buenos Aires Province,Big Data,4.0,2022-1
+2849,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-2
+2850,Female,Buenos Aires Province,UX/UI Design,Initial Programming,2021-2
+2851,Female,Buenos Aires Province,FullStack Java,Initial Programming,2022-1
+2852,Male,CABA,FullStack Python,4.0,2020-2
+2853,Other,Buenos Aires Province,FullStack Python,Advanced,2021-2
+2854,Female,Other Provinces,UX/UI Design,4.0,2020-2
+2855,Male,CABA,UX/UI Design,4.0,2021-1
+2856,Female,Buenos Aires Province,FullStack Python,Initial Programming,2022-1
+2857,Female,CABA,Big Data,4.0,2021-1
+2858,Female,Buenos Aires Province,Testing QA,4.0,2021-2
+2859,Male,Buenos Aires Province,FullStack Python,4.0,2020-2
+2860,Male,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+2861,Female,CABA,UX/UI Design,Advanced,2022-1
+2862,Female,Buenos Aires Province,UX/UI Design,4.0,2020-2
+2863,Female,CABA,UX/UI Design,4.0,2021-1
+2864,Female,Buenos Aires Province,FullStack PHP,Initial Programming,2021-2
+2865,Male,CABA,FullStack PHP,4.0,2021-1
+2866,Male,Buenos Aires Province,FullStack PHP,4.0,2022-1
+2867,Female,CABA,UX/UI Design,4.0,2020-2
+2868,Female,CABA,Testing QA,4.0,2022-1
+2869,Male,Other Provinces,Big Data,4.0,2021-1
+2870,Male,CABA,FullStack Python,4.0,2020-2
+2871,Male,Buenos Aires Province,FullStack Python,4.0,2021-1
+2872,Female,CABA,UX/UI Design,4.0,2021-1
+2873,Female,CABA,Testing QA,4.0,2020-2
+2874,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+2875,Female,CABA,UX/UI Design,4.0,2021-1
+2876,Female,Buenos Aires Province,Testing QA,Advanced,2021-1
+2877,Female,Buenos Aires Province,FullStack Python,4.0,2020-2
+2878,Male,Buenos Aires Province,Big Data,4.0,2022-1
+2879,Male,Buenos Aires Province,FullStack Python,4.0,2021-2
+2880,Female,Buenos Aires Province,Testing QA,Advanced,2021-2
+2881,Female,Buenos Aires Province,Testing QA,4.0,2020-2
+2882,Male,Buenos Aires Province,Testing QA,4.0,2020-2
+2883,Female,CABA,FullStack Python,4.0,2020-2
+2884,Female,CABA,Testing QA,4.0,2020-2
+2885,Female,Other Provinces,FullStack Python,4.0,2021-2
+2886,Female,Buenos Aires Province,FullStack PHP,4.0,2020-2
+2887,Male,Other Provinces,FullStack Java,4.0,2022-1
+2888,Male,Buenos Aires Province,FullStack PHP,4.0,2021-2
+2889,Male,CABA,Big Data,4.0,2021-1
+2890,Male,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2021-2
+2891,Male,Other Provinces,Big Data,4.0,2021-1
+2892,Female,Buenos Aires Province,FullStack PHP,Advanced,2020-2
+2893,Female,Buenos Aires Province,FullStack PHP,Initial Programming,2022-1
+2894,Female,CABA,Big Data,4.0,2020-2
+2895,Male,Other Provinces,FullStack JavaScript / Node.js,Initial Programming,2021-2
+2896,Male,CABA,FullStack Python,Initial Programming,2021-2
+2897,Male,Buenos Aires Province,FullStack PHP,4.0,2020-2
+2898,Female,CABA,FullStack Java,4.0,2021-1
+2899,Other,Buenos Aires Province,Big Data,Initial Programming,2021-2
+2900,Female,CABA,FullStack PHP,Initial Programming,2022-1
+2901,Male,Buenos Aires Province,Big Data,4.0,2022-1
+2902,Female,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+2903,Male,Buenos Aires Province,Big Data,4.0,2021-1
+2904,Female,CABA,Testing QA,4.0,2020-2
+2905,Male,Other Provinces,FullStack Java,Advanced,2020-2
+2906,Male,Other Provinces,FullStack Python,4.0,2020-2
+2907,Female,Buenos Aires Province,Testing QA,Initial Programming,2021-1
+2908,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+2909,Female,Buenos Aires Province,FullStack PHP,Advanced,2020-2
+2910,Female,CABA,FullStack Python,4.0,2020-2
+2911,Female,Buenos Aires Province,FullStack Python,Initial Programming,2021-2
+2912,Male,Buenos Aires Province,FullStack Python,4.0,2021-2
+2913,Female,CABA,UX/UI Design,4.0,2022-1
+2914,Male,CABA,FullStack Python,Advanced,2022-1
+2915,Female,CABA,Testing QA,4.0,2021-2
+2916,Female,Other Provinces,Testing QA,4.0,2022-1
+2917,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+2918,Female,Buenos Aires Province,Testing QA,Initial Programming,2021-2
+2919,Male,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+2920,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+2921,Female,Other Provinces,FullStack Python,4.0,2020-2
+2922,Male,Buenos Aires Province,FullStack Java,Initial Programming,2022-1
+2923,Male,Other Provinces,FullStack PHP,4.0,2020-2
+2924,Male,Buenos Aires Province,FullStack Java,Advanced,2021-1
+2925,Male,Buenos Aires Province,UX/UI Design,4.0,2021-2
+2926,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+2927,Male,CABA,FullStack Java,4.0,2020-2
+2928,Other,CABA,UX/UI Design,4.0,2021-1
+2929,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+2930,Male,CABA,FullStack Java,Initial Programming,2020-2
+2931,Female,CABA,UX/UI Design,4.0,2020-2
+2932,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+2933,Male,Buenos Aires Province,FullStack PHP,Advanced,2020-2
+2934,Male,CABA,FullStack PHP,4.0,2020-2
+2935,Male,CABA,UX/UI Design,4.0,2021-1
+2936,Female,CABA,UX/UI Design,Advanced,2020-2
+2937,Male,Other Provinces,FullStack Python,4.0,2020-2
+2938,Male,Other Provinces,FullStack PHP,Initial Programming,2022-1
+2939,Male,CABA,FullStack JavaScript / Node.js,4.0,2020-2
+2940,Female,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2020-2
+2941,Female,CABA,Testing QA,4.0,2020-2
+2942,Other,CABA,Big Data,Advanced,2021-2
+2943,Male,CABA,UX/UI Design,4.0,2020-2
+2944,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+2945,Female,CABA,FullStack PHP,Advanced,2020-2
+2946,Other,Other Provinces,Big Data,Advanced,2021-1
+2947,Female,Buenos Aires Province,FullStack Java,4.0,2021-1
+2948,Male,CABA,FullStack PHP,4.0,2020-2
+2949,Male,Other Provinces,FullStack Python,4.0,2021-2
+2950,Female,CABA,UX/UI Design,4.0,2022-1
+2951,Male,CABA,Big Data,Advanced,2021-1
+2952,Male,Buenos Aires Province,UX/UI Design,4.0,2021-1
+2953,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+2954,Female,Buenos Aires Province,FullStack Java,4.0,2021-2
+2955,Female,CABA,Big Data,Advanced,2021-2
+2956,Female,Buenos Aires Province,FullStack Python,Advanced,2020-2
+2957,Male,Buenos Aires Province,Testing QA,4.0,2021-2
+2958,Female,Other Provinces,FullStack JavaScript / Node.js,4.0,2022-1
+2959,Other,Buenos Aires Province,FullStack PHP,4.0,2020-2
+2960,Female,CABA,Testing QA,Initial Programming,2020-2
+2961,Male,Other Provinces,Testing QA,4.0,2020-2
+2962,Male,CABA,FullStack JavaScript / Node.js,4.0,2022-1
+2963,Male,CABA,Testing QA,4.0,2020-2
+2964,Female,Buenos Aires Province,Big Data,4.0,2021-2
+2965,Male,CABA,UX/UI Design,4.0,2021-1
+2966,Female,CABA,Big Data,4.0,2022-1
+2967,Male,CABA,FullStack PHP,4.0,2020-2
+2968,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2021-1
+2969,Male,Other Provinces,Testing QA,4.0,2021-2
+2970,Female,Other Provinces,Big Data,4.0,2021-1
+2971,Female,Buenos Aires Province,Testing QA,4.0,2022-1
+2972,Male,CABA,UX/UI Design,4.0,2022-1
+2973,Male,Other Provinces,FullStack Python,4.0,2021-1
+2974,Female,CABA,FullStack Python,4.0,2021-2
+2975,Male,CABA,Big Data,Initial Programming,2021-2
+2976,Female,Buenos Aires Province,FullStack PHP,4.0,2020-2
+2977,Male,Other Provinces,FullStack PHP,4.0,2020-2
+2978,Male,CABA,UX/UI Design,4.0,2020-2
+2979,Male,Buenos Aires Province,FullStack Java,4.0,2021-1
+2980,Female,Buenos Aires Province,FullStack PHP,4.0,2022-1
+2981,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2021-2
+2982,Male,Buenos Aires Province,Testing QA,Initial Programming,2022-1
+2983,Female,Buenos Aires Province,UX/UI Design,4.0,2021-2
+2984,Male,Buenos Aires Province,FullStack PHP,4.0,2021-1
+2985,Female,Buenos Aires Province,FullStack Java,4.0,2020-2
+2986,Male,Other Provinces,FullStack PHP,4.0,2021-1
+2987,Male,Other Provinces,Big Data,4.0,2021-1
+2988,Male,Other Provinces,UX/UI Design,4.0,2021-2
+2989,Male,Buenos Aires Province,FullStack JavaScript / Node.js,Advanced,2022-1
+2990,Male,Other Provinces,Big Data,4.0,2022-1
+2991,Male,CABA,FullStack PHP,4.0,2022-1
+2992,Female,Buenos Aires Province,FullStack JavaScript / Node.js,4.0,2022-1
+2993,Other,CABA,FullStack JavaScript / Node.js,4.0,2021-1
+2994,Male,CABA,FullStack Python,4.0,2021-1
+2995,Male,CABA,FullStack Python,4.0,2021-2
+2996,Male,Other Provinces,FullStack PHP,4.0,2021-1
+2997,Male,Buenos Aires Province,Big Data,Initial Programming,2021-2
+2998,Male,Other Provinces,FullStack JavaScript / Node.js,4.0,2020-2
+2999,Other,Other Provinces,FullStack PHP,4.0,2022-1
+3000,Female,Buenos Aires Province,Testing QA,Advanced,2021-1
