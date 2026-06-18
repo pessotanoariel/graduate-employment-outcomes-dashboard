@@ -1,0 +1,112 @@
+# Evaluación de Empleabilidad de Egresados de un Programa de Formación Tecnológica
+
+## Descripción
+
+Este proyecto presenta un dashboard analítico desarrollado en Power BI para evaluar resultados de empleabilidad posteriores a la graduación de un programa de formación tecnológica.
+
+El análisis combina información de graduados y resultados de una encuesta de seguimiento realizada a ex participantes del programa, permitiendo analizar cambios en la situación laboral, inserción en el sector tecnológico, continuidad educativa y evolución de habilidades percibidas.
+
+La versión pública de este repositorio utiliza datos sintéticos y anonimizados con fines exclusivamente demostrativos.
+
+---
+
+## Objetivo
+
+El objetivo del proyecto es medir resultados posteriores a la graduación y responder preguntas como:
+
+* ¿Qué proporción de egresados consiguió empleo luego de finalizar la formación?
+* ¿Cuántos ingresaron al sector tecnológico?
+* ¿Cuántos realizaron una transición laboral hacia tecnología?
+* ¿Cómo evolucionó el nivel de programación percibido por los participantes?
+* ¿Cuántos continuaron formándose después de finalizar el programa?
+
+El dashboard fue utilizado como herramienta de análisis para apoyar procesos de evaluación interna y toma de decisiones sobre la evolución del programa.
+
+---
+
+## Principales dimensiones analizadas
+
+* Género
+* Edad
+* Jurisdicción
+* Curso realizado
+* Cohorte de cursada
+* Nivel educativo alcanzado
+
+---
+
+## Principales indicadores
+
+* Tasa de respuesta de la encuesta
+* Empleabilidad posterior a la graduación
+* Inserción laboral en el sector IT
+* Inserción laboral en programación
+* Cambio laboral hacia el sector IT
+* Evolución del nivel de programación
+* Continuidad educativa post graduación
+
+---
+
+## Herramientas utilizadas
+
+* Power BI
+* Power Query
+* DAX
+* Excel
+* Modelado dimensional
+
+---
+
+## Mi participación
+
+Participé en todas las etapas del proyecto:
+
+* Definición de objetivos de evaluación junto al equipo responsable del programa.
+* Diseño de indicadores para medir empleabilidad, inserción en el sector IT y continuidad educativa.
+* Participación en la construcción del cuestionario de relevamiento.
+* Coordinación con equipos de comunicación para la ejecución de campañas de contacto con graduados.
+* Seguimiento de tasas de respuesta y cobertura de la muestra.
+* Construcción y depuración de datasets de análisis.
+* Desarrollo del modelo de datos.
+* Transformaciones y enriquecimiento mediante Power Query.
+* Construcción de métricas y KPIs utilizando DAX.
+* Diseño y desarrollo del dashboard en Power BI.
+* Elaboración de análisis y conclusiones para la evaluación del programa.
+
+---
+
+## Estructura del repositorio
+
+```text
+dashboard/
+data/
+docs/
+images/
+README.md
+README_EN.md
+```
+
+---
+
+## Consideraciones metodológicas
+
+El relevamiento se realizó sobre múltiples cohortes de graduados mediante una encuesta de seguimiento posterior a la finalización del programa.
+
+Debido a que la evaluación fue implementada una vez que varias cohortes ya habían egresado, las tasas de respuesta presentan diferencias entre períodos. Las cohortes más recientes fueron contactadas más cerca de su fecha de graduación, mientras que las cohortes más antiguas tuvieron mayores intervalos temporales entre egreso y relevamiento.
+
+Estas diferencias pueden afectar la comparabilidad entre cohortes y deben considerarse al interpretar los resultados.
+
+---
+
+## Aviso sobre los datos
+
+Los datos originales utilizados durante la ejecución del proyecto pertenecían a una iniciativa real y contenían información personal de participantes.
+
+Para esta versión pública:
+
+* Se eliminaron todos los datos originales.
+* Se removieron identificadores personales.
+* Se reemplazaron los datasets por datos sintéticos.
+* Los valores y resultados presentados fueron modificados o generados sintéticamente para preservar la confidencialidad de la información original.
+
+El objetivo de este repositorio es mostrar el enfoque analítico, el modelado de datos y la construcción del dashboard.
