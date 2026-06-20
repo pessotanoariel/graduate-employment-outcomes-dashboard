@@ -50,7 +50,7 @@ Valores observados:
 * 2021-2
 * 2022-1
 
-#### Alcance original
+#### Original Survey Scope
 
 La encuesta intercohorte utilizada como base para este proyecto relevó graduados desde el segundo cuatrimestre de 2020 hasta el primer cuatrimestre de 2022.
 

@@ -14,6 +14,15 @@ All generation probabilities are fictional, explicit, and intentionally
 simple. Therefore, generated metrics do not represent actual employment,
 education, program performance, or survey results.
 
+## Generated datasets
+
+The script produces two related datasets:
+
+- `graduates_synthetic.csv`: graduate-level demographic and program information.
+- `survey_synthetic.csv`: follow-up survey responses linked to graduates through a synthetic identifier.
+
+These datasets are designed to support the Power BI dashboard included in this repository.
+
 ## Run
 
 From the repository root, generate the default datasets with:
@@ -54,6 +63,6 @@ The script overwrites these generated files on each successful run:
 - `data/synthetic/survey_synthetic.csv`
 
 Before writing, it validates expected row counts, identifier uniqueness,
-referential integrity, documented categorical domains, 4.0-only survey scope,
+referential integrity, documented categorical domains, survey population rules,
 course and cohort consistency, IT/programmer employment rules, and continuing
 education fields. A validation failure stops execution with an error.

@@ -75,6 +75,9 @@ Ejemplos:
 * Unemployed and Looking for Work
 * Unemployed and Not Looking for Work
 * Retired
+  
+Note:
+Retired responses are included for completeness but represent a very small proportion of the synthetic dataset.
 
 ### employment_after
 
@@ -119,7 +122,7 @@ Ejemplos:
 
 ### post_training_study_type
 
-Respuesta múltiple.
+Multiple selections are allowed.
 
 * Free Quarterly Course
 * Paid Quarterly Course
@@ -161,7 +164,7 @@ Respuesta múltiple.
 * Yes
 * No
 
-## Indicadores derivados
+## Derived Metrics
 
 A partir de estas columnas pueden construirse:
 

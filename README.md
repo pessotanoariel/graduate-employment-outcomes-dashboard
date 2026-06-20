@@ -1,4 +1,10 @@
-# Evaluación de Empleabilidad de Egresados de un Programa de Formación Tecnológica
+# Graduate Employment Outcomes Dashboard
+
+Evaluación de empleabilidad, inserción laboral en IT y formación continua utilizando Power BI.
+
+![Dashboard Overview](images/cover.jpg)
+
+---
 
 ## Descripción
 
@@ -20,7 +26,41 @@ El objetivo del proyecto es medir resultados posteriores a la graduación y resp
 * ¿Cómo evolucionó el nivel de programación percibido por los participantes?
 * ¿Cuántos continuaron formándose después de finalizar el programa?
 
-El dashboard fue utilizado como herramienta de análisis para apoyar procesos de evaluación interna y toma de decisiones sobre la evolución del programa.
+El proyecto busca demostrar técnicas de análisis de empleabilidad, seguimiento de graduados, modelado de datos y diseño de dashboards utilizando Power BI.
+
+---
+
+## Dashboard
+
+### 1. Resultados Laborales Posteriores a la Formación
+
+Análisis de la situación laboral antes y después de la formación, evolución del empleo y cambios en los niveles de programación declarados por los participantes.
+
+![Resultados Laborales](images/01_employment_outcomes.jpg)
+
+---
+
+### 2. Inserción Laboral en el Sector IT
+
+Análisis de transición hacia empleos tecnológicos, conversión laboral hacia el sector IT y distribución de perfiles de programación por cohorte y curso.
+
+![Inserción IT](images/02_it_sector_insertion.jpg)
+
+---
+
+### 3. Desarrollo Profesional y Formación Continua
+
+Análisis de continuidad educativa, percepción de impacto de la formación y características de los estudios realizados posteriormente por los graduados.
+
+![Formación Continua](images/03_professional_development.jpg)
+
+---
+
+### 4. Perfil de los Participantes
+
+Caracterización demográfica y educativa de la muestra analizada para contextualizar los resultados presentados en el dashboard.
+
+![Perfil de Participantes](images/04_participant_profile.jpg)
 
 ---
 
@@ -59,17 +99,25 @@ El dashboard fue utilizado como herramienta de análisis para apoyar procesos de
 
 ## Mi participación
 
-Participé en todas las etapas del proyecto:
+Participé en todas las etapas del proyecto.
+
+### Diseño de la evaluación
 
 * Definición de objetivos de evaluación junto al equipo responsable del programa.
 * Diseño de indicadores para medir empleabilidad, inserción en el sector IT y continuidad educativa.
 * Participación en la construcción del cuestionario de relevamiento.
 * Coordinación con equipos de comunicación para la ejecución de campañas de contacto con graduados.
 * Seguimiento de tasas de respuesta y cobertura de la muestra.
+
+### Preparación y modelado de datos
+
 * Construcción y depuración de datasets de análisis.
 * Desarrollo del modelo de datos.
 * Transformaciones y enriquecimiento mediante Power Query.
 * Construcción de métricas y KPIs utilizando DAX.
+
+### Desarrollo del dashboard
+
 * Diseño y desarrollo del dashboard en Power BI.
 * Elaboración de análisis y conclusiones para la evaluación del programa.
 
@@ -79,9 +127,29 @@ Participé en todas las etapas del proyecto:
 
 ```text
 dashboard/
+├── graduate_employment_outcomes.pbix
+
 data/
+├── synthetic/
+├── data_dictionary.md
+├── graduates_schema.md
+└── survey_schema.md
+
 docs/
+├── graduate_employment_outcomes.pdf
+└── methodology.md
+
 images/
+├── cover.jpg
+├── 01_employment_outcomes.jpg
+├── 02_it_sector_insertion.jpg
+├── 03_professional_development.jpg
+└── 04_participant_profile.jpg
+
+scripts/
+├── generate_synthetic_data.py
+└── README.md
+
 README.md
 README_EN.md
 ```
