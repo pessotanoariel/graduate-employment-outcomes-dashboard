@@ -1,8 +1,8 @@
 # Graduate Employment Outcomes Dashboard
 
-Employment outcomes, IT sector insertion, and continuing education analysis using Power BI.
+**Language:** [Español](README.md) | English
 
-![Dashboard Overview](images/cover.jpg)
+Employment outcomes, IT sector insertion, and continuing education analysis using Power BI.
 
 ---
 
@@ -27,6 +27,20 @@ The objective of this project is to measure post-graduation outcomes and answer 
 * How many continued their education after graduation?
 
 This project demonstrates employability analysis, graduate tracking, data modeling, and dashboard design techniques using Power BI.
+
+---
+
+## Quick Start
+
+1. Open `dashboard/graduate_employment_outcomes.pbix` in Power BI Desktop.
+2. The demonstration datasets are located in `data/synthetic/`.
+3. To regenerate them from the repository root, run:
+
+```powershell
+python scripts/generate_synthetic_data.py
+```
+
+The script generates and validates `graduates_synthetic.csv` (3,000 records) and `survey_synthetic.csv` (900 responses), replacing the existing files with reproducible output.
 
 ---
 

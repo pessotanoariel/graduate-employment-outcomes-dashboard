@@ -1,6 +1,22 @@
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Confidential raw data
+data/raw/*
+!data/raw/.gitkeep
+
+# Power BI temporary and local files
+~$*.pbix
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+**/.pbi/unappliedChanges.json
 
 # OS
 .DS_Store

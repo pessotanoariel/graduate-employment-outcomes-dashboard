@@ -1,8 +1,8 @@
 # Graduate Employment Outcomes Dashboard
 
-Evaluación de empleabilidad, inserción laboral en IT y formación continua utilizando Power BI.
+**Idioma:** Español | [English](README_EN.md)
 
-![Dashboard Overview](images/cover.jpg)
+Evaluación de empleabilidad, inserción laboral en IT y formación continua utilizando Power BI.
 
 ---
 
@@ -27,6 +27,20 @@ El objetivo del proyecto es medir resultados posteriores a la graduación y resp
 * ¿Cuántos continuaron formándose después de finalizar el programa?
 
 El proyecto busca demostrar técnicas de análisis de empleabilidad, seguimiento de graduados, modelado de datos y diseño de dashboards utilizando Power BI.
+
+---
+
+## Inicio rápido
+
+1. Abrí `dashboard/graduate_employment_outcomes.pbix` con Power BI Desktop.
+2. Los datasets demostrativos se encuentran en `data/synthetic/`.
+3. Para regenerarlos desde la raíz del repositorio, ejecutá:
+
+```powershell
+python scripts/generate_synthetic_data.py
+```
+
+El script genera y valida `graduates_synthetic.csv` (3.000 registros) y `survey_synthetic.csv` (900 respuestas), reemplazando los archivos existentes con resultados reproducibles.
 
 ---
 
